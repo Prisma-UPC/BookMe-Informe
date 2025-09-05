@@ -265,6 +265,12 @@ El proceso de colaboración en la elaboración del informe se gestionó a travé
 
 ### 1.1.1. Descripción de la Startup
 
+**Prisma** es una startup tecnológica enfocada en transformar la forma en que los salones de belleza gestionan sus citas y servicios. Nuestro producto principal, **BookMe**, es una aplicación web diseñada para conectar a clientes con salones de belleza de manera rápida, sencilla y eficiente. Con una interfaz intuitiva y herramientas de gestión modernas, buscamos digitalizar la experiencia de reserva, ofreciendo comodidad tanto para los dueños de salones como para los clientes que buscan optimizar su tiempo.
+
+La **misión de Prisma** con **BookMe** es democratizar el acceso a la tecnología en el sector de la belleza, brindando a los negocios una solución práctica para administrar sus servicios, horarios y clientes. Queremos ayudar a los salones a crecer, atraer nuevos usuarios y reducir la fricción en la gestión diaria de citas, mientras damos a los clientes la posibilidad de encontrar y reservar servicios en segundos, desde cualquier dispositivo.
+
+Nuestra **visión** es convertirnos en la plataforma líder en reservas de salones de belleza en Latinoamérica, impulsando la digitalización del sector y generando un ecosistema confiable donde cada cita represente una experiencia positiva tanto para el cliente como para el negocio. En Prisma, creemos que la innovación y la experiencia del usuario son la clave para transformar la industria, y con **BookMe** buscamos ser el puente que une la tradición de la belleza con el futuro digital.
+
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
