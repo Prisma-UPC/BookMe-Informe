@@ -358,20 +358,87 @@ De acuerdo con un estudio realizado por Giselle Spa en La Molina (2021), en el q
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
 
+##### **Domain**<br>
+El sector de la belleza y/o barberias en Latinoamérica, especialmente salones de belleza y/o barberias pequeños y medianos, enfrenta el reto de modernizar su gestión de citas y servicios en un mercado cada vez más digitalizado.
+
+##### **Customer Segments**<br>
+
+1. **Dueños y administradores de salones de belleza y/o barberias** que buscan optimizar su operación diaria y atraer más clientes.
+2. **Clientes finales** que desean reservar servicios de belleza de forma rápida, confiable y sin fricciones desde cualquier dispositivo.
+
+##### **Pain Points**<br>
+
+- Los salones suelen manejar las reservas de forma manual (agenda física, llamadas, mensajes de WhatsApp), lo que genera errores, pérdida de tiempo y baja eficiencia.
+- Los clientes enfrentan dificultades para encontrar disponibilidad inmediata, comparar opciones y reservar sin tener que llamar o desplazarse.
+- Falta de visibilidad digital para los salones, lo que limita su capacidad de atraer nuevos clientes.
+
+##### **Gap**<br>
+
+Actualmente, la mayoría de los salones no cuentan con una herramienta integrada, moderna y accesible que simplifique tanto la administración de horarios como la experiencia de reserva del cliente.
+
+##### **Vision / Strategy**<br>
+
+Con **BookMe**, Prisma busca democratizar el acceso a la tecnología en el sector de la belleza, brindando una plataforma web que permita:
+
+- A los salones: digitalizar su gestión, reducir errores administrativos, aumentar la eficiencia y llegar a más clientes.
+- A los usuarios: encontrar, comparar y reservar servicios de belleza en segundos, con una experiencia ágil y confiable.
+
+De esta forma, Prisma busca convertirse en el puente entre la tradición del sector y el futuro digital, impulsando la digitalización masiva de salones de belleza en Latinoamérica.
 
 #### 1.2.2.2. Lean UX Assumptions
 ##### 1.2.2.2.1. Features
 
-
+- Una plataforma web que permita a los clientes buscar, comparar y reservar citas en salones de belleza.
+- Agenda digital integrada para que los salones gestionen horarios, servicios y disponibilidad en tiempo real.
+- Panel de administración para dueños y/o administradores con estadísticas básicas de uso (número de citas, cancelaciones, clientes frecuentes).
+- Notificaciones automáticas (recordatorios de citas, confirmaciones y cancelaciones).
+- Perfil digital para salones con catálogo de servicios, precios y reseñas de clientes.
 
 ##### 1.2.2.2.2. Business Outcomes
 
+- Aumento del número de citas reservadas a través de la plataforma.
+- Reducción de la pérdida de clientes por mala gestión de horarios o falta de disponibilidad.
+- Incremento en la visibilidad digital de los salones (más usuarios que encuentran y reservan).
+- Fidelización de clientes mediante una experiencia rápida y confiable.
+- Generación de ingresos recurrentes para Prisma a través de modelos de suscripción o comisiones por reserva.
 
 ##### 1.2.2.2.3. User Benefits
 
+- **Clientes:**
+  - Pueden reservar en segundos desde cualquier dispositivo.
+  - Acceden a más opciones de salones y servicios con información clara.
+  - Pueden ver la disponibilidad de los salones en tiempo real.
+  - Evitan llamadas o desplazamientos innecesarios.
+
+- **Dueños/Administradores:**
+  - Pueden administrar horarios, servicios y disponibilidad de forma eficiente.
+  - Reducen errores en la gestión manual de citas.
+  - Optimizan el tiempo de atención y evitan pérdidas de ingresos por citas mal registradas.
+  - Aumentan la captación de clientes nuevos gracias a la exposición digital.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
+1. Creemos que al ofrecer a los clientes la posibilidad de reservar en línea en segundos mejoraremos la tasa de reservas y la satisfacción de los usuarios.
+    - Mediremos el número de reservas completadas en la plataforma.
+    - Validaremos cuando al menos el 60% de las reservas de un salón provengan de BookMe después de cierto tiempo de uso.
+
+2. Creemos que al digitalizar la gestión de citas para los salones reduciremos errores administrativos y mejoraremos su productividad.
+    - Mediremos el número de cancelaciones y reprogramaciones por error.
+    - Validaremos cuando haya una reducción de al menos entre un rango de 20% a 30% en estos incidentes.
+
+3. Creemos que al permitir a los salones crear un perfil digital con servicios, precios y reseñas aumentaremos su visibilidad y captación de clientes.
+    - Mediremos el número de visitas y reservas nuevas en cada perfil.
+    - Validaremos cuando los salones reporten un incremento del 15%-30% en clientes nuevos.
+
+4. Creemos que al permitir la integración con redes sociales (Instagram, TikTok, Facebook) para mostrar servicios y reseñas
+   los salones lograrán mayor alcance y atracción de nuevos clientes.
+   - Mediremos el tráfico referido desde redes sociales hacia los perfiles en BookMe.
+   - Validaremos cuando se registre un aumento del 20%-35% en visitas y reservas provenientes de redes sociales.
+
+6. Creemos que al integrar métodos de pago seguros (tarjetas, billeteras digitales) dentro de la plataforma
+mejoraremos la confianza de los clientes y aumentaremos el uso del sistema de pagos digitales.
+   - Mediremos el porcentaje de reservas pagadas dentro de BookMe.
+   - Validaremos cuando al menos el 70% de las transacciones se realicen usando los métodos de pago integrados en los primeros 6 meses.
 
 #### 1.2.2.4. Lean UX Canvas.
 
