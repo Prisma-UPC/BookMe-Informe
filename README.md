@@ -285,58 +285,77 @@ Nuestra **visión** es convertirnos en la plataforma líder en reservas de salon
 
 ### 1.2.1 Antecedentes y problemática
 
+Según lo expuesto por Lean Construction México, la técnica de las 5W’s y 2H’s constituye una herramienta que contribuye a la formulación y desarrollo de planes de acción o estrategias con un alto nivel de detalle (Alvarez, 2020). En consecuencia, su implementación se considera pertinente en el presente contexto, en la medida en que permite profundizar en la comprensión y el análisis de las necesidades de los usuarios. En virtud de ello, se procedió a recopilar información a través de esta metodología, la cual se presenta a continuación.
 
 **What (Qué)**
 
 ##### ¿Cuál es el problema?
 
+El principal inconveniente radica en la ausencia de una herramienta eficiente que permita gestionar citas en tiempo real para estilistas y otros profesionales de la belleza. En la actualidad, gran parte de ellos continúa dependiendo de WhatsApp, redes sociales o llamadas telefónicas, lo que ocasiona desorden en la agenda, cancelaciones imprevistas y pérdida de tiempo administrativo. De acuerdo con Araya et al. (2025), el 70% de las pymes en América Latina utiliza los datos y la analítica en un nivel básico. Esto implica que muchos profesionales independientes prefieren manejar sus citas de forma manual, lo cual puede derivar en errores, pérdidas económicas y dificultades para ampliar su cartera de clientes.
 
 ##### ¿Cuál es la relación con la persona en cuestión?
 
+La propuesta de BookMe busca dar solución a este problema mediante una plataforma digital que posibilite a los estilistas organizar su disponibilidad y gestionar pagos y de esa manera poder fidelizar a sus clientes. Con ello, no solo se optimiza la organización, sino que también se automatizan procesos clave, lo que incrementa la eficiencia operativa y la experiencia del usuario. Según Telefónica (2022), las pequeñas empresas que implementan soluciones digitales para la gestión de clientes pueden incrementar su productividad hasta en un 25%.
 
 **Who (Quién)**
 
 ##### ¿Quiénes están involucrados?
 
+Los actores principales son los estilistas y profesionales de la belleza —barberos, maquilladores, manicuristas, entre otros— que requieren de una plataforma que les permita digitalizar y automatizar la gestión de citas. De igual manera, se encuentran los clientes, quienes demandan servicios de belleza y bienestar.
 
-##### ¿A quiénes le sucede el problema?
+##### ¿A quiénes afecta el problema?
 
+El problema impacta tanto a los profesionales como a los clientes. En América Latina, más del 60% de los trabajadores de este sector son independientes (Expo Belleza Fest, 2016). Estos profesionales, al no contar con un sistema digital de gestión, enfrentan dificultades para organizar de manera clara sus agendas. En consecuencia, los clientes también se ven afectados, ya que la falta de organización o la demora en verificar la disponibilidad de los estilistas puede resultar desmotivadora.
 
 **Where (Dónde)**
 
-##### ¿En dónde ocurre el problema?
+##### ¿Dónde ocurre el problema?
 
+El problema se presenta en zonas urbanas del Perú, donde estilistas y barberos todavía administran sus citas de manera informal, ya sea en formato físico, mediante mensajes de texto o a través de redes sociales. Esto genera desorden y aumenta el riesgo de errores debido al volumen de solicitudes.
 
-##### ¿En dónde nos enfocaremos?
+##### ¿Dónde nos enfocaremos?
 
+La propuesta se enfocará en áreas urbanas del Perú con alta concentración de estilistas y barberos, especialmente en aquellas ciudades con un acceso adecuado a tecnología digital y conectividad, y donde los usuarios dispongan de conocimientos básicos y dispositivos necesarios para utilizar una aplicación web.
 
 **When (Cuándo)**
 
 ##### ¿Cuándo sucede el problema?
 
+Este problema se manifiesta de forma cotidiana, cada vez que un cliente solicita una cita y la información es registrada de manera manual.
 
 ##### ¿Cuándo utiliza el cliente el producto?
 
+El producto sería utilizado en el momento en que se recibe una solicitud de cita. Primero, se verificaría la disponibilidad en la agenda digital y, en caso de estar libre, la cita se registraría de inmediato.
 
 **Why (Por qué)**
 
 ##### ¿Cuál es la causa del problema?
 
+Entre las principales causas destacan la baja alfabetización digital, la confianza en métodos tradicionales y la falta de soluciones que se ajusten a las necesidades específicas del sector. Asimismo, aunque existen alternativas como Google Calendar o Zoho, su complejidad —ya sea por carencia o exceso de funcionalidades— no se adapta al trabajo de estilistas y barberos, lo que los lleva a optar por registros manuales de la información esencial.
 
 **How (Cómo)**
 
 ##### ¿En qué condiciones los clientes usan nuestro producto?
 
+El uso se realizaría desde cualquier dispositivo con conexión a internet y capacidad para abrir un navegador web. La aplicación proporcionaría herramientas simples y claras para gestionar citas y activar notificaciones en dispositivos móviles.
 
 **How much (Cuánto)**
 
 ##### Estadísticas que sustentan la problemática.
 
+Según Ochoa (2021), en una encuesta aplicada en el salón de belleza “Mónica Garcés”, el 80% de los encuestados señaló no recibir una atención adecuada en el proceso de reservación de citas. Asimismo, un 20% indicó desconocer dicho procedimiento. Generalmente, la comunicación se establece vía telefónica con la propietaria del local, lo que impide mantener un control o administración eficiente de los horarios.
 
+![tabla_6](/img/tabla6.png)
+
+Según los registros de salones de belleza en funcionamiento en Tegucigalpa, el 53,3% de las mujeres manifiesta preferir la atención bajo el criterio de orden de llegada. Sin embargo, la mayoría de estos establecimientos no dispone de plataformas digitales o servicios web que les permitan administrar de manera eficiente la prestación de sus servicios.
+
+![grafico](/img/grafico.png)
+
+De acuerdo con un estudio realizado por Giselle Spa en La Molina (2021), en el que se encuestó a 205 clientes sobre la calidad del servicio ofrecido por el salón de belleza, se determinó que el 53,4% consideró que dicha calidad es únicamente regular. Esta percepción se atribuye principalmente al escaso interés evidenciado en aspectos relacionados con los cronogramas, la comunicación activa y la organización del trabajo.
+
+![tabla_13](/img/tabla13.png)
 
 ### 1.2.2 Lean UX Process
-
-
 #### 1.2.2.1. Lean UX Problem Statements
 
 
