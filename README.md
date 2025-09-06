@@ -443,49 +443,45 @@ mejoraremos la confianza de los clientes y aumentaremos el uso del sistema de pa
 #### 1.2.2.4. Lean UX Canvas.
 
 
-## 1.3. Segmentos objetivo.
+## 1.3. Segmentos Objetivo.
 
 Los segmentos objetivos son las personas o entidades a las cuales está destinada nuestra solución. A continuación se nombraran los que abarca nuestra propuesta.
 
-## Segmento objetivo #1: Salones de belleza y barberías
+## Segmento objetivo #1: Dueños y Administradores de Salones de Belleza
 
-###  Aspectos Demográficos
+###  Características demográficas
 
-- Rango de edad: Mayores de 20 años
-- Sexo: Masculino y femenino
-- Nivel socioeconómico: clases A, B (alta y media-alta)
+- Principalmente pequeñas y medianas empresas
+- Propietarios y administradores de entre 25 y 50 años, con experiencia en servicios de belleza pero con bajo nivel de adopción tecnológica.
+- Alta concentración en áreas urbanas y semiurbanas.
 
-### Aspectos geográficos:
+### Necesidades y motivaciones
 
-- Nacionalidad: Peruana o extranjera
-- Zona geográfica de residencia: urbana
-- Departamento: Lima Metropolitana
+- Optimizar la gestión de citas para reducir errores y pérdida de ingresos.
+- Aumentar la visibilidad del negocio en un mercado competitivo.
+- Digitalizar procesos sin necesidad de contar con conocimientos técnicos avanzados.
 
-### Aspectos psicográficos:
+### Sustento estadístico
 
-- Uso frecuente de medios de comunicación, tales como WhatsApp y llamadas telefónicas, para interactuar con los clientes.
-- Un día a día con la agenda apretada por las reservas de los clientes y poca flexibilidad.
-- Datos estadísticos: Según un estudio realizado por la Cámara de Comercio de Lima (2023), el 72% de los salones de belleza en Lima aún utilizan métodos manuales para agendar citas.
+- De acuerdo con un estudio realizado por la Cámara de Comercio de Lima (2023), se evidenció que el 72% de los salones de belleza en la ciudad de Lima continúan utilizando métodos manuales para la gestión y programación de citas.
 
-## Segmento objetivo #2: Clientes de servicios de belleza
+## Segmento objetivo #2: Clientes de servicios de belleza (usuarios finales)
 
-### Aspectos Demográficos
+### Características demográficas
 
-- Rango de edad: Mayores de 18 años
-- Sexo: Masculino y femenino
-- Nivel socioeconómico: clases A, B y C (alta, media-alta y media)
+- Hombres y mujeres de entre 18 y 45 años.
+- Usuarios digitales activos, con alta penetración de smartphones .
+- Principalmente ubicados en zonas urbanas y con acceso frecuente a redes sociales.
 
-### Aspectos geográficos:
+### Necesidades y motivaciones
 
-- Nacionalidad: Peruana o extranjera
-- Zona geográfica de residencia: urbana
-- Departamento: Lima Metropolitana
+- Acceder a información clara sobre servicios, precios y disponibilidad.
+- Reservar citas de manera rápida y sin depender de llamadas o visitas presenciales.
+- Mayor confianza en la calidad de los servicios a través de reseñas y valoraciones verificadas.
 
-### Aspectos psicográficos:
+### Sustento estadístico
 
-- Van frecuentemente a salones de belleza para estar a la moda o estar presentable para un evento importante.
-- Tienden a preferir tratarse con el mismo estilista o barbero debido a experiencias anteriores o por la técnica del especialista.
-- Datos estadísticos: Según Ochoa (2021), en una encuesta realizada en un salón de belleza llamado “Mónica Garcés”, el 80% de encuestados argumenta que no recibe una atención adecuada respecto a la reservación de citas a un salón de belleza. Asimismo, el 20% desconoce dicho proceso. Por lo general, se suelen comunicar mediante vía telefónica con la dueña del local, y no se logra llevar un control o manejo adecuado de horarios.
+- De acuerdo con Ochoa (2021), en una encuesta aplicada en el salón de belleza “Mónica Garcés”, se identificó que el 80% de los participantes manifestó no recibir una atención adecuada en el proceso de reservación de citas, mientras que un 20% indicó desconocer dicho procedimiento.
 
 # Capítulo II: Requirements Elicitation & Analysis
 
