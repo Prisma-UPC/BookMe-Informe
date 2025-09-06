@@ -497,67 +497,66 @@ El análisis competitivo es una herramienta clave para la toma de decisiones est
   </tr>
   <tr>
     <td colspan="1" align="center" rowspan="2">¿Por qué llevar a cabo este análisis?</td>
-    <td colspan="5" align="center">¿Cómo identificar a nuestros principales competidores?</td>
+    <td colspan="5" align="center">¿Cómo puede BookMe diferenciarse de sus principales competidores en Latinoamérica y ofrecer un valor único a salones de belleza pequeños y medianos?</td>
   </tr>
   <tr>
-    <td colspan="5"  align="center">Gracias al análisis de la competencia en el mercado, es posible entender el entorno en el que nuestro producto operará. Esto permite identificar a los competidores directos e indirectos y desarrollar estrategias basadas en la información obtenida sobre su posicionamiento actual.</td>
+    <td colspan="5"  align="center">Identificar las fortalezas y debilidades de los competidores directos (Fresha, Timely y SimplyBook) con el fin de diseñar estrategias que aprovechen sus vacíos y potencien la propuesta de valor de BookMe.</td>
   </tr>
   <tr>
     <th colspan="2" align="center">Nombre y logo</th>
     <td colspan="1" align="center">
-    <p><b>uTime</b></p>
-    <img src="img/logo.png" alt="uTime Logo">
+    <p><b>BookMe</b></p>
+    <img src="img/logo.png" alt="BookMe Logo">
     </td>
     <td colspan="1" align="center">
-    <p><b>Salon Pro</b></p>
-    <img src="https://i.imgur.com/WKnzVAz.png" alt="Salon Pro Logo" width="80">
+    <p><b>Fresha</b></p>
+    <img src="https://imgur.com/bwiRgiM.png" alt="fresha Logo" width="80">
     </td>
     <td colspan="1" align="center">
-    <p><b>Beauty Salon</b></p>
-    <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/02795c3d-7e17-493f-8521-b882a567e37a.png?w=90&h=90&fit=max&dpr=3&auto=format&q=50" alt="Beauty Salon Logo" width="80">
+    <p><b>Timely</b></p>
+    <img src="https://imgur.com/wI4CmQ5.png" alt="timely Logo" width="80">
     </td>
     <td colspan="1" align="center">
-    <p><b>Calendly</b></p>
-    <img src="https://cdn.prod.website-files.com/6640cd28f51f13175e577c05/664e00729585bbce36f008c5_302eb91f-a193-5bfd-a8dc-d33abe7c9c40.svg" alt="Calendly Logo" width="80">
+    <p><b>SimplyBook</b></p>
+    <img src="https://imgur.com/ENEKlMX.png" alt="SimplyBook Logo" width="80">
     </td>
   </tr>
   <tr>
     <th colspan="1" rowspan="2" align="center">Perfil</th>
     <td colspan="1" align="center" >Overview</td>
-    <td colspan="1">Plataforma de gestión de citas en tiempo real, altamente personalizable, con marketplace y pagos en línea.</td>
-    <td colspan="1">Software para gestión de citas en salones con recordatorios y pagos integrados.</td>
-    <td colspan="1">Aplicación móvil para reservas en salones de belleza con sistema de recomendaciones.</td>
-    <td colspan="1">Plataforma de programación de reuniones con integración a calendarios digitales.</td>
+    <td colspan="1">Plataforma web diseñada para digitalizar las reservas de salones de belleza.</td>
+    <td colspan="1">Software global de reservas, con foco en la industria de belleza y wellness.</td>
+    <td colspan="1">Sistema de reservas en la nube especializado en salones y clínicas de estética.</td>
+    <td colspan="1">Plataforma SaaS para reservas online, adaptable a distintos rubros.</td>
   </tr>
   <tr>
     <td colspan="1" align="center">Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
     <td colspan="1">
     <ul>
-    <li>Alta personalización en precios, tiempos y servicios.</li>
-    <li>Marketplace para generar ingresos adicionales.</li>
-    <li>Asesoramiento exclusivo en el plan premium.</li>
-    <li>Calendario en tiempo real, optimizado para equipos con múltiples trabajadores.</li>
+    <li>Plataforma accesible y adaptada al mercado local peruano.</li>
+    <li>Reservas rápidas y sencillas para clientes.</li>
+    <li>Precios asequibles que facilitan la digitalización de salones pequeños y medianos.</li>
     </ul>
     </td>
     <td colspan="1">
     <ul>
-    <li>Automatización de citas con recordatorios.</li>
-    <li>Integración con pagos para facilitar transacciones.</li>
-    <li>Interfaz sencilla y amigable para salones de belleza.</li>
+    <li>Ecosistema global con marketplace integrado para descubrir nuevos salones.</li>
+    <li>Costo por cada miembro del equipo al mes.</li>
+    <li>Amplia red de salones que incrementa la visibilidad de negocios.</li>
     </ul>
     </td>
     <td colspan="1">
     <ul>
-    <li>Sistema de recomendaciones basado en preferencias del usuario.</li>
-    <li>Experiencia optimizada en móvil.</li>
-    <li>Ofertas y promociones exclusivas dentro de la app.</li>
+    <li>Herramientas avanzadas de gestión de agenda, personal y ventas.</li>
+    <li>Plataforma confiable que aumenta la productividad de los salones.</li>
+    <li>Enfoque en optimizar procesos internos más allá de las reservas.</li>
     </ul>
     </td>
     <td colspan="1">
     <ul>
-    <li>Integración con herramientas empresariales (Google Calendar, Outlook, Zoom).</li>
-    <li>Automatización de programación para equipos y clientes.</li>
-    <li>Fácil uso y amplia adopción en el mercado corporativo.</li>
+    <li>Flexibilidad y personalización de la plataforma según el negocio.</li>
+    <li>Integración con múltiples canales digitales (Google, Facebook, web propia).</li>
+    <li>Permite reservas en diversos contextos y rubros.</li>
     </ul>
     </td>
   </tr>
@@ -566,25 +565,22 @@ El análisis competitivo es una herramienta clave para la toma de decisiones est
     <td colspan="1" align="center">Mercado objetivo</td>
     <td colspan="1">
     <ul>
-    <li>Peluquerías y barberías.</li>
-    <li>Clientes que buscan reservar servicios de belleza.</li>
+    <li>Clientes que reservan servicios de belleza y salones pequeños y medianos que digitalizan citas.</li>
     </ul>
     </td>
     <td colspan="1">
     <ul>
-    <li>Salones de belleza y spas.</li>
-    <li>Negocios que quieren digitalizar sus citas.</li>
+    <li>Centros de belleza, barberías y spas en más de 120 países.</li>
     </ul>
     </td>
     <td colspan="1">
     <ul>
-    <li>Clientes que buscan servicios de belleza.</li>
-    <li>Salones de belleza y spas.</li>
+    <li>Pequeñas y medianas empresas del sector belleza y salud.</li>
     </ul>
     </td>
     <td colspan="1">
     <ul>
-    <li>Empresas y freelancers que necesitan agendar reuniones.</li>
+    <li>Negocios de servicios que requieren gestión de citas (belleza, salud, educación).</li>
     </ul>
     </td>
   </tr>
@@ -592,28 +588,30 @@ El análisis competitivo es una herramienta clave para la toma de decisiones est
     <td colspan="1" align="center">Estrategias de marketing</td>
     <td colspan="1">
     <ul>
-    <li>Modelo freemium con 10 reservas mensuales gratis.</li>
-    <li>Marketplace para generar ingresos extra.</li>
-    <li>Publicidad en redes sociales.</li>
+    <li>Enfoque en marketing digital local (redes sociales y anuncios segmentados).</li>
+    <li>Alianzas con salones de belleza pequeños y medianos para captar usuarios.</li>
+    <li>Estrategias de referidos y promociones para aumentar adopción.</li>
     </ul>
     </td>
     <td colspan="1">
     <ul>
-    <li>Publicidad dirigida en redes sociales.</li>
-    <li>Ofertas promocionales y descuentos.</li>
-    <li>Integración con herramientas de gestión empresarial.</li>
+    <li>Marketplace global que atrae clientes a través de la plataforma.</li>
+    <li>Estrategias SEO y SEM para posicionamiento internacional.</li>
+    <li>Incentivos para que los salones se unan sin pagar suscripción.</li>
     </ul>
     </td>
     <td colspan="1">
     <ul>
-    <li>Fuerte presencia en App Store y Google Play.</li>
-    <li>Alianzas con salones para promociones.</li>
+    <li>Contenido educativo (blogs, webinars, tutoriales) para fidelizar clientes.</li>
+    <li>Marketing dirigido a negocios consolidados con enfoque en productividad.</li>
+    <li>Estrategias de confianza basadas en casos de éxito y reconocimiento internacional.</li>
     </ul>
     </td>
     <td colspan="1">
     <ul>
-    <li>SEO y marketing de contenido.</li>
-    <li>Integración con múltiples herramientas de productividad.</li>
+    <li>Marketing enfocado en la versatilidad de usos más allá del sector belleza.</li>
+    <li>Campañas de integración con Google y redes sociales.</li>
+    <li>Segmentación hacia negocios que requieren personalización avanzada.</li>
     </ul>
     </td>
   </tr>
@@ -622,31 +620,34 @@ El análisis competitivo es una herramienta clave para la toma de decisiones est
     <td colspan="1" align="center">Productos & Servicios</td>
     <td colspan="1">
     <ul>
-    <li>Gestión de citas en tiempo real.</li>
-    <li>Marketplace.</li>
-    <li>Pagos en línea.</li>
-    <li>Asesoramiento en plan premium.</li>
+    <li>Plataforma web para reservas de servicios de belleza.</li>
+    <li>Gestión digital de citas y horarios en tiempo real.</li>
+    <li>Recordatorios automáticos para reducir cancelaciones.</li>
+    <li>Perfiles de salones con servicios, precios y reseñas.</li>
     </ul>
     </td>
     <td colspan="1">
     <ul>
-    <li>Software de gestión para salones.</li>
-    <li>Recordatorios automáticos.</li>
-    <li>Pagos integrados.</li>
+    <li>Marketplace global para descubrir y reservar salones.</li>
+    <li>Software de gestión de citas, inventario y pagos.</li>
+    <li>Herramientas de marketing digital y promociones.</li>
+    <li>Sistema de reseñas verificadas para clientes.</li>
     </ul>
     </td>
     <td colspan="1">
     <ul>
-    <li>Aplicación para reservas.</li>
-    <li>Sistema de recomendaciones.</li>
-    <li>Promociones para usuarios.</li>
+    <li>Agenda inteligente y gestión de personal.</li>
+    <li>Control de ventas, reportes y analítica de negocio.</li>
+    <li>Integración con sistemas de pago.</li>
+    <li>Herramientas de fidelización (recordatorios, promociones).</li>
     </ul>
     </td>
     <td colspan="1">
     <ul>
-    <li>Programación de reuniones.</li>
-    <li>Integraciones con calendarios.</li>
-    <li>Automatización de agendas.</li>
+    <li>Sistema de reservas personalizable para múltiples sectores.</li>
+    <li>Integración con Google, Facebook y sitios web propios.</li>
+    <li>Módulos adicionales (pagos, membresías, marketing).</li>
+    <li>App móvil para clientes y administradores.</li>
     </ul>
     </td>
   </tr>
@@ -654,62 +655,61 @@ El análisis competitivo es una herramienta clave para la toma de decisiones est
     <td colspan="1" align="center">Precios y Costos</td>
     <td colspan="1">
     <ul>
-    <li>Plan gratuito con 10 reservas/mes.</li>
-    <li>Plan intermedio con más personalización.</li>
-    <li>Plan premium con marketplace ilimitado y asesoramiento.</li>
+    <li>Modelo freemium para atraer salones pequeños.</li>
+    <li>Planes de suscripción accesibles para medianos negocios.</li>
     </ul>
     </td>
     <td colspan="1">
     <ul>
-    <li>Suscripción mensual según el tamaño del negocio.</li>
+    <li>Servicios premium adicionales con costo (marketing y pagos integrados).</li>
+    <li>Comisión por cada cita reservada a través del marketplace.</li>
     </ul>
     </td>
     <td colspan="1">
     <ul>
-    <li>Comisiones por reservas.</li>
-    <li>Posible suscripción premium.</li>
+    <li>Planes mensuales por suscripción según el tamaño del negocio.</li>
+    <li>Precios escalables en función de la cantidad de usuarios y funciones.</li>
     </ul>
     </td>
     <td colspan="1">
     <ul>
-    <li>Modelo freemium con suscripción mensual.</li>
-    <li>Costos según el tamaño del equipo.</li>
+    <li>Plan gratuito con funciones limitadas.</li>
+    <li>Cargos adicionales por funcionalidades avanzadas (pagos online, marketing, apps).</li>
     </ul>
     </td>
   </tr>
   <tr>
     <td colspan="1" align="center">Canales de distribución (Web y/o Móvil)</td>
-    <td colspan="1">El servicio, de forma momentánea, se brindará en plataforma web</td>
-    <td colspan="1">Dispone de plataforma web y aplicación móvil</td>
-    <td colspan="1">Solo aplicación móvil</td>
-    <td colspan="1">Plataforma web y aplicación móvil</td>
+    <td colspan="1">Plataforma web responsiva accesible desde cualquier dispositivo.</td>
+    <td colspan="1">Aplicación móvil para clientes (iOS y Android) y plataforma web para salones y usuarios.</td>
+    <td colspan="1">Plataforma web con app móvil de gestión, complementada con integraciones externas (Stripe, Xero, etc.) para mayor funcionalidad.</td>
+    <td colspan="1">Plataforma web configurable con apps móviles (cliente y administrador), integrada a redes sociales y Google Business para ampliar alcance.</td>
   </tr>
   <tr>
     <th colspan="1" align="center" rowspan="4">Análisis SWOT</th>
     <td colspan="1" align="center">Fortalezas</td>
     <td colspan="1">
     <ul>
-    <li>Personalización avanzada.</li>
-    <li>Diferenciación con marketplace.</li>
-    <li>Modelo accesible y flexible.</li>
+    <li>Adaptación al mercado local con enfoque en salones pequeños y medianos.</li>
+    <li>Plataforma simple y asequible que reduce barreras de adopción.</li>
     </ul>
     </td>
     <td colspan="1">
     <ul>
-    <li>Automatización de citas.</li>
-    <li>Fácil de usar.</li>
+    <li>Marketplace global con amplia red de usuarios.</li>
+    <li>Modelo sin suscripción fija que atrae a más negocios.</li>
     </ul>
     </td>
     <td colspan="1">
     <ul>
-    <li>Interfaz atractiva.</li>
-    <li>Buen enfoque en clientes finales.</li>
+    <li>Herramientas avanzadas de gestión y analítica.</li>
+    <li>Reputación internacional y confianza en el sector.</li>
     </ul>
     </td>
     <td colspan="1">
     <ul>
-    <li>Gran cantidad de integraciones.</li>
-    <li>Posicionamiento sólido en el mercado.</li>
+    <li>Alta personalización e integración con múltiples canales.</li>
+    <li>Aplicaciones móviles y web flexibles para varios sectores.</li>
     </ul>
     </td>
   </tr>
@@ -717,23 +717,24 @@ El análisis competitivo es una herramienta clave para la toma de decisiones est
     <td colspan="1" align="center">Debilidades</td>
     <td colspan="1">
     <ul>
-    <li>Necesidad de atraer clientes masivos.</li>
-    <li>Puede ser complejo para algunos usuarios.</li>
+    <li>Baja notoriedad de marca en el sector.</li>
+    <li>Recursos limitados para expansión rápida.</li>
     </ul>
     </td>
     <td colspan="1">
     <ul>
-    <li>Alta competencia.</li>
-    <li>Funcionalidades limitadas.</li>
+    <li>Dependencia de comisiones por reserva.</li>
+    <li>Menor personalización para salones pequeños.</li>
     </ul>
     </td>
     <td colspan="1">
-    <li>Dependencia de afiliaciones con salones.</li>
-    <li>Competencia con otras apps.</li>
+    <li>Costos elevados para negocios pequeños.</li>
+    <li>Mayor curva de aprendizaje para nuevos usuarios.</li>
     </td>
     <td colspan="1">
     <ul>
-    <li>Costos elevados para algunas funciones.</li>
+    <li>Configuración inicial compleja para usuarios sin experiencia.</li>
+    <li>Funciones avanzadas sujetas a módulos pagos adicionales.</li>
     </ul>
     </td>
   </tr>
@@ -741,27 +742,26 @@ El análisis competitivo es una herramienta clave para la toma de decisiones est
     <td colspan="1" align="center">Oportunidades</td>
     <td colspan="1">
     <ul>
-    <li>Expansión en Latinoamérica.</li>
-    <li>Alianzas con marcas de belleza.</li>
-    <li>Expansión del marketplace.</li>
+    <li>Creciente digitalización en Latinoamérica.</li>
+    <li>Gran número de negocios que aún usan métodos manuales.</li>
     </ul>
     </td>
     <td colspan="1">
     <ul>
-    <li>Crecimiento del sector digital.</li>
-    <li>Mayor uso de pagos en línea.</li>
+    <li>Expansión en mercados emergentes.</li>
+    <li>Potencial de alianzas con grandes cadenas.</li>
     </ul>
     </td>
     <td colspan="1">
     <ul>
-    <li>Aumento de reservas digitales en belleza.</li>
-    <li>Integración con plataformas de bienestar.</li>
+    <li>Creciente demanda de soluciones integrales en negocios grandes.</li>
+    <li>Espacio para expandir integraciones con otras plataformas.</li>
     </ul>
     </td>
     <td colspan="1">
     <ul>
-    <li>Crecimiento del trabajo remoto.</li>
-    <li>Expansión en herramientas digitales.</li>
+    <li>Expansión multisectorial más allá del rubro belleza.</li>
+    <li>Mayor adopción en negocios con fuerte presencia digital.</li>
     </ul>
     </td>
   </tr>
@@ -769,26 +769,26 @@ El análisis competitivo es una herramienta clave para la toma de decisiones est
     <td colspan="1" align="center">Amenazas</td>
     <td colspan="1">
     <ul>
-    <li>Competencia con plataformas consolidadas.</li>
-    <li>Costos de adquisición de clientes.</li>
+    <li>Competidores internacionales consolidados.</li>
+    <li>Desconfianza en pagos digitales en algunos usuarios.</li>
     </ul>
     </td>
     <td colspan="1">
     <ul>
-    <li>Opciones más económicas en el mercado.</li>
-    <li>Cambios en tendencias de consumo.</li>
+    <li>Competencia local en cada país.</li>
+    <li>Resistencia de salones a pagar comisiones.</li>
     </ul>
     </td>
     <td colspan="1">
     <ul>
-    <li>Nuevos competidores en el sector.</li>
-    <li>Alternativas con más funcionalidades.</li>
+    <li>Competidores más económicos en mercados emergentes.</li>
+    <li>Saturación de software de reservas en el mercado.</li>
     </ul>
     </td>
     <td colspan="1">
     <ul>
-    <li>Empresas más grandes en el sector.</li>
-    <li>Alternativas gratuitas en crecimiento.</li>
+    <li>Competidores especializados en nichos específicos.</li>
+    <li>Percepción de costos elevados al sumar complementos.</li>
     </ul>
     </td>
   </tr>
@@ -796,11 +796,39 @@ El análisis competitivo es una herramienta clave para la toma de decisiones est
 
 * Comparación de costos entre los competidores
 <div align="center">
-   <img src="img/costos-competidores.png" alt="Costos de competidores" width="400px">
+   <img src="img/cuadro-de-costos.png" alt="Cuadro de costos de competidores" width="400px">
 </div>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
+- Frente a Fresha (fuerte en marketing y presencia global, pero con alta comisión del 20%)
+  - Estrategia: Diferenciación por transparencia y menores costos.
+  - Tácticas:
+    - Ofrecer un modelo freemium con planes accesibles y 0% de comisión en reservas.
+    - Comunicar de forma clara el ahorro para los salones al migrar desde Fresha a BookMe.
+    - Promover testimonios de clientes sobre cómo redujeron gastos al usar BookMe.
+
+- Frente a Timely (robusta en funciones, pero costosa y poco adaptada al mercado latinoamericano)
+  - Estrategia: Enfoque en accesibilidad y localización.
+    - Tácticas:
+      - Planes más baratos y flexibles, adaptados al poder adquisitivo en Latinoamérica.
+      - Integración con métodos de pago locales (Yape, Plin, billeteras digitales, pagos contra entrega).
+      - Interfaz simple y en español, con soporte rápido y cercano.
+
+- Frente a SimplyBook (flexible, pero complejo y con costos ocultos en extras)
+  - Estrategia: Usabilidad y transparencia de costos.
+  - Tácticas:
+    - Ofrecer funcionalidades premium integradas desde los planes básicos (recordatorios, reportes, perfiles).
+    - Paquetes claros y sin cobros sorpresa por reservas extra.
+    - UX minimalista y pensada para usuarios no técnicos.
+
+- Frente a todas las alternativas (amenazas comunes: reputación, marketing global, capital más alto)
+  - Estrategia: Crecimiento orgánico en nichos locales.
+  - Tácticas:
+    - Alianzas con salones pequeños y medianos para generar casos de éxito locales.
+    - Estrategia de marketing digital segmentada (redes sociales, influencers de belleza en LATAM).
+    - Promoción de un  ecosistema de confianza mediante reseñas verificadas y recompensas de lealtad.
+    - Expansión progresiva país por país, adaptando BookMe al contexto cultural y económico local.
 
 ## 2.2. Entrevistas.
 
