@@ -1165,9 +1165,12 @@ La navegación se realizará mediante una barra superior fija que incluye el log
 ## 4.3. Landing Page UI Design.
 
 ### 4.3.1. Landing Page Wireframe.
-
+*(Imagen: Wireframe de la landing page para desktop y mobile)*  
+El wireframe de la landing page presenta una estructura clara con hero section, value proposition, testimonios, catálogo de servicios y call-to-actions estratégicos. En mobile, el contenido se apila verticalmente con un menú hamburguesa para la navegación.
 
 ### 4.3.2. Landing Page Mock-up.
+*(Imagen: Mock-up de la landing page con la aplicación de la paleta de colores y tipografía)*  
+El mock-up refleja la identidad de marca con uso del azul primario y rosa secundario. Los botones de CTA contrastan para destacar las acciones principales. Las imágenes muestran diversidad en los servicios ofrecidos.
 
 
 ## 4.4. Web Applications UX/UI Design.
