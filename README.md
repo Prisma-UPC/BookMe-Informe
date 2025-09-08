@@ -1122,23 +1122,28 @@ Segmento objetivo #2:
 | #47         | TS03              | Encriptación de contraseñas                              | **Como** developer, **quiero** asegurar las contraseñas mediante hashing y salting, **para** proteger los datos de los usuarios.                                              | 3                  |
 | #48         | TS02              | Implementación de autenticación con dos pasos (2FA)      | **Como** developer, **quiero** añadir autenticación de dos factores, **para** mejorar la seguridad del inicio de sesión de los usuarios.                                      | 5                  |
 
-# Capítulo IV: Product Design
-
-## 4.1. Style Guidelines.
-
-### 4.1.1. General Style Guidelines.
-
-#### 4.1.1.1. Tipografía
-
 ##### 4.1.1.1.1. Tipografía del logo
+Para el logo de **BookMe** se utilizará una tipografía moderna y limpia que refleje profesionalismo y confianza. La tipografía seleccionada es **Poppins** en su variante Semi-Bold, que ofrece una apariencia contemporánea y legible tanto en tamaños grandes como pequeños.
 
 ##### 4.1.1.1.2. Tipografía del texto regular
+Para el texto regular en la aplicación y landing page, se utilizará **Inter** como fuente principal. Inter es una tipografía diseñada para interfaces de usuario, con alta legibilidad en diversas resoluciones y tamaños. Se emplearán las variantes Regular (400) para el cuerpo de texto, Medium (500) para subtítulos y Semi-Bold (600) para encabezados.
 
 #### 4.1.1.2. Colores
+La paleta de colores de **BookMe** se compone de los siguientes tonos:
+- **Primario:** Azul (#2563EB) - Transmite confianza y profesionalismo.
+- **Secundario:** Rosa (#EC4899) - Representa la industria de la belleza y creatividad.
+- **Neutros:** 
+  - Gris oscuro (#1F2937) para texto.
+  - Gris medio (#6B7280) para texto secundario.
+  - Gris claro (#F3F4F6) para fondos.
+- **Éxito:** Verde (#10B981) para indicar acciones positivas.
+- **Error:** Rojo (#EF4444) para alertas y mensajes de error.
 
 #### 4.1.1.4. Iconografía
+Se utilizará el conjunto de iconos **Feather Icons** por su diseño delgado y coherente, que se alinea con la estética minimalista y funcional de BookMe. Los iconos serán utilizados en tamaño 24px por defecto, con variaciones según el contexto.
 
 #### 4.1.1.5. Tono de comunicación y lenguaje aplicado
+El tono de comunicación de BookMe será **amigable, profesional y empoderador**. Buscamos ser claros y directos, pero manteniendo un carácter cercano que refleje el cuidado y la atención al detalle que caracteriza a los salones de belleza. El lenguaje será inclusivo y motivador, tanto para los dueños de negocios como para los clientes.
 
 ### 4.1.2. Web Style Guidelines.
 
