@@ -1145,14 +1145,22 @@ Segmento objetivo #2:
 ## 4.2. Information Architecture.
 
 ### 4.2.1. Organization Systems.
+El contenido se organizará mediante una combinación de sistemas jerárquicos y por tópicos. La página principal seguirá una jerarquía visual que guíe al usuario desde la value proposition hasta los call-to-actions principales. Para la aplicación web, la información se categorizará por tópicos como "Mis Citas", "Servicios", "Perfil", etc., facilitando el acceso a las funcionalidades clave.
 
 ### 4.2.2. Labeling Systems.
+Se utilizarán etiquetas claras y concisas para la navegación, como "Inicio", "Servicios", "Reservar", "Mi Perfil", "Contacto". Estas etiquetas serán consistentes en toda la plataforma para evitar confusiones. Para acciones específicas, se usarán verbos como "Agendar Cita", "Editar Perfil", "Cancelar Reserva".
 
 ### 4.2.3. SEO Tags and Meta Tags
+- **Title:** BookMe - Reserva tu cita en salones de belleza y barberías
+- **Meta Description:** BookMe es la plataforma que conecta clientes con los mejores salones de belleza y barberías. Agenda citas al instante, visualiza servicios y precios.
+- **Keywords:** reserva de citas, belleza, barbería, peluquería, estilistas, agenda online
+- **Author:** Prisma
 
 ### 4.2.4. Searching Systems.
+La plataforma contará con un buscador principal que permitirá a los usuarios encontrar salones por nombre, servicio o ubicación. Los resultados se mostrarán en una lista filtrable y ordenable por valoración, proximidad o precio. Cada tarjeta de resultado incluirá información clave como nombre, valoración, ubicación y precios.
 
 ### 4.2.5. Navigation Systems.
+La navegación se realizará mediante una barra superior fija que incluye el logo y las principales secciones. Para usuarios autenticados, se desplegará un menú de usuario con acceso a su perfil y configuraciones. Se implementará breadcrumb navigation en secciones profundas para facilitar el regreso a niveles superiores.
 
 ## 4.3. Landing Page UI Design.
 
