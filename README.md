@@ -1195,15 +1195,16 @@ El prototipo interactivo permite simular el flujo de agendamiento de citas, gest
 ## 4.6. Domain-Driven Software Architecture.
 
 ### 4.6.1. Design-Level Event Storming
-
+Durante la sesión de Design-Level Event Storming, se identificaron los siguientes eventos clave: "CitaAgendada", "CitaCancelada", "PagoRealizado", "UsuarioRegistrado". A partir de estos, se delinearon los comandos y agregados necesarios, leading to the definition of bounded contexts como "Reservations", "Payments", "Users".
 
 ### 4.6.2. Software Architecture Context Diagram.
-
+El sistema BookMe interactúa con usuarios (clientes y dueños de salones), y con sistemas externos como pasarelas de pago y servicios de notificaciones.
 
 ### 4.6.3. Software Architecture Container Diagrams.
-
+La arquitectura se compone de un frontend web, una API REST, una base de datos PostgreSQL y integraciones con Stripe (pagos) y Twilio (notificaciones SMS).
 
 ### 4.6.4. Software Architecture Components Diagrams.
+El componente de Reservations incluye clases como AppointmentService, CalendarManager y NotificationService, detallando sus responsabilidades e interacciones.
 
 
 ### 4.7. Software Object-Oriented Design.
