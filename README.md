@@ -1189,6 +1189,7 @@ Los mock-ups aplican el style guide completo, mostrando interfaces limpias y mod
 
 
 ## 4.5. Web Applications Prototyping.
+El prototipo interactivo permite simular el flujo de agendamiento de citas, gestión de perfil y navegación general. Incluye interacciones como hover en botones, desplegables de filtros y transiciones entre vistas.  
 
 
 ## 4.6. Domain-Driven Software Architecture.
