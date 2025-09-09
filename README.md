@@ -1034,6 +1034,42 @@ Segmento objetivo #2:
 
 ## 3.2. Impact Mapping.
 
+```mermaid
+graph TD
+    A[Increase Digital Adoption<br>in Beauty Salons] --> B(Cliente agenda más<br>y mejor);
+    A --> C(Dueño gestiona<br>más eficientemente);
+    A --> D(Prisma se convierte<br>en líder del mercado);
+
+    B --> E[Provide Instant<br>Booking Platform];
+    B --> F[Offer Secure<br>Payment Gateway];
+    B --> G[Show Real-Time<br>Availability];
+
+    C --> H[Provide Digital<br>Appointment Book];
+    C --> I[Offer Business<br>Management Tools];
+    C --> J[Generate Customer<br>Insights];
+
+    E --> K[Build Responsive<br>Web App];
+    E --> L[Implement Calendar<br>Integration API];
+
+    H --> M[Develop Admin<br>Dashboard];
+    H --> N[Build Notification<br>System Emails/SMS];
+```
+
+
+
+**Objetivo General:** Aumentar la adopción digital en salones de belleza peruanos y mejorar la experiencia de reserva para los clientes.
+
+*   **¿Quiénes? (Actores):** Clientes Finales, Dueños de Salones, Administradores.
+*   **¿Cómo? (Impactos):**
+    *   Los clientes agendan citas de manera más rápida y confiable.
+    *   Los dueños gestionan sus negocios de forma más eficiente y organizada.
+    *   Prisma se posiciona como la plataforma líder de reservas en el sector.
+*   **¿Qué? (Deliverables):**
+    *   Plataforma de reservas en tiempo real.
+    *   Pasarela de pagos integrada y segura.
+    *   Panel de administración para dueños con herramientas de gestión.
+    *   Sistema de notificaciones (email/SMS) para recordatorios.
+    *   Módulo de reseñas y calificaciones.
 
 ## 3.3. Product Backlog.
 
