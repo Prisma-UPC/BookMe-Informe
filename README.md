@@ -995,9 +995,17 @@ Segmento objetivo #2: Clientes de servicios de belleza
 
 ### 2.3.4. Empathy Mapping.
 
-Segmento objetivo #1: 
+Segmento objetivo #1: Estilista (Proveedor de servicios)
+
+<div align="left">
+   <img src="img/empathy-map-1.png" alt="Empathy Map: Estilista" width="max">
+</div>
    
-Segmento objetivo #2: 
+Segmento objetivo #2: Clientes de servicios de belleza
+   
+<div align="left">
+   <img src="img/empathy-map-2.png" alt="Empathy Map: Cliente" width="max">
+</div>
    
 
 ## 2.4. Big Picture Event Storming.
