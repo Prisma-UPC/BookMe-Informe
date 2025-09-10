@@ -277,7 +277,8 @@ Nuestra **visión** es convertirnos en la plataforma líder en reservas de salon
 | **Perfil**                                                                                                                                                                                                                                                                         | **Foto**                                                                      |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
 | **Julca Cruz, Renso Anthony**<br>Estudiante de Ingenieria de Software, actualmente curso el 5to ciclo de esta carrera. Me apasiona programar y ser autodidacta para poder mejorar mis habilidades en el desarrollo de software, quisiera dedicarme a la parte de gestion bancaria. | <img src="https://files.catbox.moe/ubvuqr.png" alt="renso image" width="200"> |                                                                         
-| **NOMBRE**<br>                                                                                                                                                                                                                                                                     |                                                                               |
+| **Mazuelos Callirgos, Marcelo Alessandro**<br>Estudiante de Ingenieria de Software.|<img src="https://files.catbox.moe/y8qpju.jpg" alt="marcelo image" width="200">|
+
 | **NOMBRE**<br>                                                                                                                                                                                                                                                                     |                                                                               |
 | **NOMBRE**<br>                                                                                                                                                                                                                                                                     |                                                                               |
 
@@ -834,31 +835,34 @@ El análisis competitivo es una herramienta clave para la toma de decisiones est
 
 ### 2.2.1. Diseño de entrevistas.
 
-### Preguntas para el Segmento Objetivo 01 (Dueños de salones de belleza o barberías)
+### Preguntas para el Segmento Objetivo 01 (Dueños de salones de belleza)
+1. ¿Cuánto tiempo lleva en el rubro de la belleza y qué lo motivó a dedicarse a este negocio?
+2. ¿Cómo suelen agendar las citas sus clientes y qué método prefieren ellos? (WhatsApp, llamadas, redes sociales, otros).
+3. ¿Cuán flexible es su agenda diaria y qué tan difícil es manejar cambios de última hora en las reservas?
+4. ¿Usan algún sistema o aplicación para gestionar reservas y pagos? Si no, ¿cómo lo hacen actualmente?
+5. ¿Cuáles son los principales canales de comunicación que usan para confirmar o recordar citas?
+6. ¿Cuáles son los principales desafíos que enfrenta al gestionar las reservas y la relación con los clientes?
+7. ¿Con qué frecuencia enfrentan cancelaciones o clientes que no se presentan? ¿Cómo manejan estas situaciones?
+8. ¿Qué estrategias usan para que los clientes regresen a su negocio y qué tan efectivas han sido?
+9. ¿Qué tan abiertos están a implementar nuevas herramientas digitales que les ayuden a organizar mejor su negocio?
+10. ¿Qué mejoras le gustaría implementar en su negocio en el corto y mediano plazo?
+11. ¿Qué tan importante es para usted tener un control visual de la disponibilidad y ocupación de su equipo de trabajo?
+12. ¿Cómo maneja las situaciones de insatisfacción de los clientes y qué acciones toma para evitar que se repitan?
 
-1. ¿Cómo gestionas actualmente las citas y reservas de tus clientes?
-2. ¿Qué problemas o frustraciones enfrentas en la administración de tu salón/barbería?
-3. ¿Qué herramientas digitales usas, si es que usas alguna, para gestionar tu negocio?
-4. ¿Qué tan importante es para ti reducir cancelaciones y mejorar la puntualidad de los clientes?
-5. ¿Qué valor tendría para ti una aplicación que centralice reservas, recordatorios y pagos?
-6. ¿Qué tan dispuesto estarías a pagar por un sistema que te ayude a aumentar clientes y ahorrar tiempo?
-7. ¿Qué dispositivos utilizas con mayor frecuencia para tu trabajo (PC, tablet, smartphone)?
-8. ¿Qué redes sociales usas más para atraer y comunicarte con tus clientes?
-9. ¿Qué objetivos tienes para tu negocio en los próximos 2–3 años?
-10. ¿Qué experiencias negativas recuerdas con sistemas o métodos de reserva anteriores?
+### Preguntas para el Segmento Objetivo 02 (Clientes de salones de belleza)
+1. ¿Con qué frecuencia visitas un salón de belleza y qué servicios sueles solicitar?
+2. ¿Qué factores consideras más importantes al elegir un salón de belleza? (Ubicación, precio, reputación, servicio, etc.)
+3. ¿Sueles atenderte con el mismo estilista? ¿Por qué?
+4. ¿Cómo prefieres agendar tus citas? (WhatsApp, llamadas, página web, aplicación, presencialmente).
+5. ¿Qué tan importante es para ti que te atiendan a la hora exacta de tu cita? ¿Has tenido experiencias negativas con largas esperas?
+6. Si necesitas cancelar o reprogramar tu cita, ¿qué tan fácil o difícil suele ser el proceso?
+7. ¿Qué métodos de pago prefieres al momento de pagar por el servicio? (Efectivo, tarjeta, transferencias, apps de pago).
+8. ¿Cómo te gusta recibir recordatorios de tu cita o promociones? (Mensajes de WhatsApp, correos, redes sociales, llamadas).
+9. ¿Has utilizado alguna aplicación o plataforma para reservar citas en salones de belleza? ¿Cómo fue tu experiencia?
+10. ¿Qué aspecto te gustaría que mejoraran los salones de belleza para una mejor experiencia como cliente?
+11. ¿Qué tan importante es para ti que el salón o barbería tenga una presencia activa en redes sociales o en línea?
+12. ¿Cuánto valoras la opción de poder hacer pagos anticipados o de forma digital para evitar el manejo de efectivo?
 
-### Preguntas para el Segmento Objetivo 02 (Clientes de salones de belleza o barberías)
-
-1. ¿Cómo sueles reservar tus citas en salones de belleza/barberías?
-2. ¿Qué problemas has tenido al momento de agendar, confirmar o asistir a una cita?
-3. ¿Qué tan importante es para ti ver precios, reseñas y disponibilidad antes de reservar?
-4. ¿Prefieres pagar en línea o directamente en el local? ¿Por qué?
-5. ¿Qué características tendría para ti una aplicación ideal de reservas de servicios de belleza?
-6. ¿Qué factores influyen más en tu elección de un salón (precio, cercanía, reseñas, promociones, prestigio)?
-7. ¿Qué dispositivos usas con mayor frecuencia para realizar reservas o compras (PC, tablet, smartphone)?
-8. ¿Qué redes sociales utilizas más para descubrir salones o promociones de belleza?
-9. ¿Qué experiencias negativas recuerdas al intentar reservar un servicio en un salón/barbería?
-10. ¿Qué tan probable sería que recomendaras una aplicación confiable de reservas a tus amigos o familiares?
 
 ### 2.2.2. Registro de entrevistas.
 
@@ -936,12 +940,21 @@ El análisis competitivo es una herramienta clave para la toma de decisiones est
 
 ## 2.3. Needfinding.
 
-### 2.3.1. User Personas.
+### 2.3.1. User Personas.git push -u origin feature/
 
-Segmento objetivo #1: 
+Segmento objetivo #1: Estilista (Proveedor de servicios)
+<br> Profesionales independientes que buscan organización y crecimiento.
+
+<div align="left">
+   <img src="img/user-persona-1.png" alt="Segmento objetivo: Estilista" width="max">
+</div>
    
-Segmento objetivo #2: 
+Segmento objetivo #2: Clientes de servicios de belleza
+<br> Clientes digitales que quieren rapidez, confianza y comodidad.
 
+<div align="left">
+   <img src="img/user-persona-2.png" alt="Segmento objetivo: Cliente" width="max">
+</div>
 
 ### 2.3.2. User Task Matrix.
 
@@ -969,22 +982,37 @@ Segmento objetivo #2:
 
 ### 2.3.3. User Journey Mapping.
 
+Segmento objetivo #1: Estilista (Proveedor de servicios)
 
-Segmento objetivo #1: 
-   
+<div align="left">
+   <img src="img/user-journey-1.png" alt="User Journey: Estilista" width="max">
+</div>
 
-Segmento objetivo #2: 
-   
+Segmento objetivo #2: Clientes de servicios de belleza
+
+<div align="left">
+   <img src="img/user-journey-2.png" alt="User Journey: Clientes" width="max">
+</div>   
 
 ### 2.3.4. Empathy Mapping.
 
-Segmento objetivo #1: 
+Segmento objetivo #1: Estilista (Proveedor de servicios)
+
+<div align="left">
+   <img src="img/empathy-map-1.png" alt="Empathy Map: Estilista" width="max">
+</div>
    
-Segmento objetivo #2: 
+Segmento objetivo #2: Clientes de servicios de belleza
    
+<div align="left">
+   <img src="img/empathy-map-2.png" alt="Empathy Map: Cliente" width="max">
+</div>
 
 ## 2.4. Big Picture Event Storming.
 
+<div align="left">
+   <img src="img/event-storming.png" alt="Event Storming" width="max">
+</div>
 
 ## 2.5. Ubiquitous Language.
 
