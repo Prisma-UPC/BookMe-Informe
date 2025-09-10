@@ -1010,7 +1010,7 @@ Segmento objetivo #2: Clientes de servicios de belleza
 ## 2.4. Big Picture Event Storming.
 
 <div align="left">
-   <img src="img/empathy-map-2.png" alt="Empathy Map: Cliente" width="max">
+   <img src="img/event-storming.png" alt="Event Storming" width="max">
 </div>
 
 ## 2.5. Ubiquitous Language.
