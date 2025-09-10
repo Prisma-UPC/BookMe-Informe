@@ -836,10 +836,29 @@ El análisis competitivo es una herramienta clave para la toma de decisiones est
 
 ### Preguntas para el Segmento Objetivo 01 (Dueños de salones de belleza o barberías)
 
+1. ¿Cómo gestionas actualmente las citas y reservas de tus clientes?
+2. ¿Qué problemas o frustraciones enfrentas en la administración de tu salón/barbería?
+3. ¿Qué herramientas digitales usas, si es que usas alguna, para gestionar tu negocio?
+4. ¿Qué tan importante es para ti reducir cancelaciones y mejorar la puntualidad de los clientes?
+5. ¿Qué valor tendría para ti una aplicación que centralice reservas, recordatorios y pagos?
+6. ¿Qué tan dispuesto estarías a pagar por un sistema que te ayude a aumentar clientes y ahorrar tiempo?
+7. ¿Qué dispositivos utilizas con mayor frecuencia para tu trabajo (PC, tablet, smartphone)?
+8. ¿Qué redes sociales usas más para atraer y comunicarte con tus clientes?
+9. ¿Qué objetivos tienes para tu negocio en los próximos 2–3 años?
+10. ¿Qué experiencias negativas recuerdas con sistemas o métodos de reserva anteriores?
 
 ### Preguntas para el Segmento Objetivo 02 (Clientes de salones de belleza o barberías)
 
-
+1. ¿Cómo sueles reservar tus citas en salones de belleza/barberías?
+2. ¿Qué problemas has tenido al momento de agendar, confirmar o asistir a una cita?
+3. ¿Qué tan importante es para ti ver precios, reseñas y disponibilidad antes de reservar?
+4. ¿Prefieres pagar en línea o directamente en el local? ¿Por qué?
+5. ¿Qué características tendría para ti una aplicación ideal de reservas de servicios de belleza?
+6. ¿Qué factores influyen más en tu elección de un salón (precio, cercanía, reseñas, promociones, prestigio)?
+7. ¿Qué dispositivos usas con mayor frecuencia para realizar reservas o compras (PC, tablet, smartphone)?
+8. ¿Qué redes sociales utilizas más para descubrir salones o promociones de belleza?
+9. ¿Qué experiencias negativas recuerdas al intentar reservar un servicio en un salón/barbería?
+10. ¿Qué tan probable sería que recomendaras una aplicación confiable de reservas a tus amigos o familiares?
 
 ### 2.2.2. Registro de entrevistas.
 
