@@ -939,7 +939,7 @@ El análisis competitivo es una herramienta clave para la toma de decisiones est
 
 ## 2.3. Needfinding.
 
-### 2.3.1. User Personas.
+### 2.3.1. User Personas.git push -u origin feature/
 
 Segmento objetivo #1: Estilista (Proveedor de servicios)
 <br> Profesionales independientes que buscan organización y crecimiento.
@@ -981,12 +981,17 @@ Segmento objetivo #2: Clientes de servicios de belleza
 
 ### 2.3.3. User Journey Mapping.
 
+Segmento objetivo #1: Estilista (Proveedor de servicios)
 
-Segmento objetivo #1: 
-   
+<div align="left">
+   <img src="img/user-journey-1.png" alt="User Journey: Estilista" width="max">
+</div>
 
-Segmento objetivo #2: 
-   
+Segmento objetivo #2: Clientes de servicios de belleza
+
+<div align="left">
+   <img src="img/user-journey-2.png" alt="User Journey: Clientes" width="max">
+</div>   
 
 ### 2.3.4. Empathy Mapping.
 
