@@ -1146,17 +1146,93 @@ graph TD
 
 ### 4.1.1. General Style Guidelines.
 
+La identidad visual de Prisma con BookMe constituye un eje central en la construcción de su marca, concebida para comunicar profesionalismo, innovación y accesibilidad. Su propuesta visual representa la convergencia entre tecnología y el sector de la belleza, ofreciendo una experiencia integral tanto para los salones como para los clientes que interactúan con la plataforma.
+
+La estética adoptada se caracteriza por ser minimalista, armónica y funcional, orientada a generar vínculos de confianza y percepción de eficiencia. Los elementos gráficos —logotipo, tipografía y paleta cromática— han sido seleccionados estratégicamente para transmitir orden, claridad y atención al detalle, atributos que refuerzan la promesa de un servicio ágil, estilizado y adaptado a las necesidades del usuario.
+
+De manera coherente, el sistema visual se articula con los valores y dinámicas propias del ámbito de la belleza y el bienestar, sin desatender la importancia de la usabilidad y la simplicidad. Este enfoque permite consolidar una experiencia estética y funcional uniforme, favoreciendo la recordación de marca y su posicionamiento en el mercado.
+
 #### 4.1.1.1. Tipografía
+
+<div align="center">
+<img src="img/tipografia.svg" alt="Tipografía" width="400" />
+</div> <br>
+
+La selección de tipografía en **BookMe** juega un papel crucial para comunicar la identidad moderna, profesional y cercana de la marca. Se ha adoptado un sistema tipográfico claro, limpio y flexible, capaz de transmitir organización, precisión y estilo, características clave en la gestión de servicios de belleza. Esta elección asegura una experiencia visual consistente, tanto para clientes como para salones, garantizando legibilidad óptima en diferentes tamaños de pantalla y dispositivos.
 
 ##### 4.1.1.1.1. Tipografía del logo
 
+<div align="center">
+<img src="img/logo.svg" alt="Logo" width="400" />
+</div> <br>
+
+Para el logotipo de BookMe se ha utilizado Manrope Bold, una tipografía sans-serif moderna y estilizada que combina formas geométricas suaves con un diseño minimalista. Su estructura equilibrada transmite modernidad, profesionalismo y accesibilidad, mientras que el grosor Bold proporciona fuerza visual y presencia, asegurando que el logotipo destaque en cualquier soporte. Esta elección refleja la seriedad y confiabilidad de la plataforma, al mismo tiempo que proyecta una marca sólida, innovadora y cercana al usuario, alineada con la misión de digitalizar y optimizar la experiencia de reservas en salones de belleza.
+
 ##### 4.1.1.1.2. Tipografía del texto regular
+
+Para el cuerpo de texto, títulos, botones y elementos de navegación, se ha seleccionado **Manrope** y **Noto Sans**, tipografías sans-serif modernas y legibles que combinan claridad, estilo contemporáneo y accesibilidad. Su uso en distintas variaciones de peso permite establecer jerarquías visuales coherentes según el contexto:
+
+- **Manrope Light / Noto Sans Light:** textos secundarios, descripciones breves o elementos de apoyo.
+- **Manrope Regular / Noto Sans Regular:** cuerpo principal de texto, párrafos y contenido extensivo.
+- **Manrope Medium / Noto Sans Medium:** subtítulos, botones y llamados a la acción.
+- **Manrope Bold / Noto Sans Bold:** títulos importantes, encabezados o elementos que requieren énfasis visual.
+
+Esta combinación garantiza **legibilidad y consistencia** en todas las interfaces de BookMe, alineándose con la identidad visual de la marca y reforzando una experiencia de usuario **clara, moderna y confiable**.
 
 #### 4.1.1.2. Colores
 
+<div align="center">
+<img src="img/paleta.svg" alt="Paleta" width="400" />
+</div> <br>
+
+La paleta de colores de BookMe ha sido cuidadosamente seleccionada para transmitir profesionalismo, modernidad y confiabilidad, alineándose con el público objetivo del sector de la belleza y la gestión de servicios.
+
+- **Tonos principales (azules y neutros):**
+Colores como el #2563eb (azul vibrante) y #4f8dfc (azul cielo) evocan tecnología, dinamismo y frescura, atributos ideales para una plataforma digital orientada a optimizar la experiencia de reservas en salones de belleza. El #6b7280 (gris medio) se utiliza para textos secundarios y elementos de apoyo, asegurando legibilidad y estructura visual. El #ffffff (color claro) se utiliza como fondo neutro y espacioso, equilibrando los tonos más saturados y manteniendo una apariencia limpia, moderna y minimalista.
+
+- **Paleta secundaria:**
+Complementa la paleta principal con tonos que aportan acento y claridad, como el #10b981 (verde) para confirmaciones y el #f97316 (naranja) para alertas o botones secundarios. Los grises claros como #f3f4f6 ayudan a estructurar el contenido y construir jerarquía visual sin sobrecargar la interfaz.
+
+Esta combinación de colores logra una experiencia visual armoniosa, elegante y tecnológica, ideal para una plataforma que busca destacarse en el sector de servicios de belleza, ofreciendo tanto claridad funcional como atractivo estético.
+
 #### 4.1.1.4. Iconografía
 
+<div align="center">
+<img src="img/Iconografía.svg" alt="Iconografia" width="400" />
+</div> <br>
+
+La iconografía de BookMe está diseñada para ofrecer una interfaz moderna, clara y altamente intuitiva. Los íconos comunican de manera rápida y visual las funciones clave de la plataforma, facilitando la navegación tanto para clientes como para salones de belleza.
+
+Se utiliza un estilo lineal y minimalista (outline) con trazos uniformes y proporciones equilibradas, transmitiendo una sensación de profesionalismo, cercanía y modernidad, coherente con la identidad de marca de BookMe.
+
+Se han definido tres tamaños estándar de iconos, cada uno con un grosor de trazo (stroke) específico, para adaptarse a diferentes jerarquías visuales dentro de la plataforma:
+
+- **Íconos grandes:** 96 x 90 px con trazo de 4 px. Usados en secciones destacadas, pantallas de bienvenida o navegación principal.
+
+- **Íconos medianos:** 48 x 45 px con trazo de 3 px. Utilizados en menús, encabezados secundarios y paneles de control.
+
+- **Íconos pequeños:** 32 x 30 px con trazo de 2 px. Ideales para botones de acción, menús desplegables y elementos de listas.
+
+Además del ícono base (por ejemplo, calendario), se ha desarrollado una biblioteca completa de iconos que representan de manera clara funciones esenciales de la plataforma, como agendamiento, pagos, perfil, servicios, notificaciones y comunicación. Esta colección garantiza consistencia visual, permite escalabilidad y facilita la rápida comprensión de las funciones sin comprometer la estética.
+
+Todos los íconos mantienen proporciones balanceadas y utilizan un sistema de grid, asegurando coherencia en su diseño y alineación en interfaces web y móviles, fortaleciendo la experiencia de usuario y la identidad visual de BookMe.
+
+
 #### 4.1.1.5. Tono de comunicación y lenguaje aplicado
+
+El tono de BookMe combina claridad, cercanía y profesionalismo, buscando que tanto los clientes como los salones de belleza se sientan cómodos y confiados al usar la plataforma. La comunicación se enfoca en ser simple, directa y amigable, evitando tecnicismos o expresiones complejas que puedan generar confusión.
+
+Para los clientes, los mensajes priorizan la comodidad y rapidez, destacando la facilidad de encontrar y reservar servicios, con frases como “Reserva tu cita en segundos” o “Tu salón favorito, a un clic de distancia”. Para los salones, el lenguaje enfatiza la organización y crecimiento del negocio, con mensajes como “Gestiona tu agenda de manera sencilla” o “Atrae más clientes fácilmente”.
+
+El estilo se ajusta según el contexto:
+
+- **Cercano y cordial** en pantallas de bienvenida o tutoriales.
+
+- **Claro y funcional** en formularios, reservas y configuraciones.
+
+- **Motivador y útil** en notificaciones, recordatorios o sugerencias de mejora.
+
+Se mantiene una voz coherente y profesional, evitando mayúsculas innecesarias o jerga técnica. Esta estrategia asegura que BookMe transmita confianza, facilite la interacción y genere una experiencia de usuario fluida, intuitiva y agradable, fortaleciendo la identidad de la marca en cada contacto.
 
 ### 4.1.2. Web Style Guidelines.
 
