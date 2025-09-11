@@ -1241,6 +1241,13 @@ Se mantiene una voz coherente y profesional, evitando mayúsculas innecesarias o
 ### 4.2.1. Organization Systems.
 El contenido se organizará mediante una combinación de sistemas jerárquicos y por tópicos. La página principal seguirá una jerarquía visual que guíe al usuario desde la value proposition hasta los call-to-actions principales. Para la aplicación web, la información se categorizará por tópicos como "Mis Citas", "Servicios", "Perfil", etc., facilitando el acceso a las funcionalidades clave.
 
+- **Landing Page Diagram:**
+<div align="center">
+<img src="img/landing-page.jpg" alt="Landing Page Diagram" width="600" />
+</div> <br>
+
+
+
 ### 4.2.2. Labeling Systems.
 Se utilizarán etiquetas claras y concisas para la navegación, como "Inicio", "Servicios", "Reservar", "Mi Perfil", "Contacto". Estas etiquetas serán consistentes en toda la plataforma para evitar confusiones. Para acciones específicas, se usarán verbos como "Agendar Cita", "Editar Perfil", "Cancelar Reserva".
 
