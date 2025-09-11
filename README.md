@@ -1266,10 +1266,68 @@ Además, las etiquetas se organizan considerando las asociaciones entre los conj
 Este sistema de etiquetado contribuye a una experiencia de usuario coherente y eficiente, en la que cada elemento de información es fácilmente reconocible y comprensible, reduciendo la carga cognitiva y facilitando la navegación dentro de la plataforma.
 
 ### 4.2.3. SEO Tags and Meta Tags
-- **Title:** BookMe - Reserva tu cita en salones de belleza y barberías
-- **Meta Description:** BookMe es la plataforma que conecta clientes con los mejores salones de belleza y barberías. Agenda citas al instante, visualiza servicios y precios.
-- **Keywords:** reserva de citas, belleza, barbería, peluquería, estilistas, agenda online
-- **Author:** Prisma
+Los SEO Tags y Meta Tags son elementos esenciales para mejorar la visibilidad, posicionamiento y accesibilidad de BookMe en buscadores web, así como para facilitar la indexación correcta de la información por motores de búsqueda. Estos elementos ayudan a que los usuarios encuentren la plataforma de manera eficiente y que el contenido se presente de forma clara en los resultados de búsqueda.
+
+**Elementos principales**
+
+- **Title (Título):**
+Define el nombre de la página que aparece en el navegador y en los resultados de búsqueda. Debe ser conciso, descriptivo y contener palabras clave relevantes.
+
+  - Ejemplo:
+
+    ```html
+    <title>BookMe - Reserva tu cita en salones de belleza y barberías</title>
+    ```
+
+- **Meta Description (Descripción):**
+Breve resumen del contenido de la página, orientado a persuadir al usuario a hacer clic. Idealmente incluye palabras clave y refleja el valor principal de la plataforma.
+
+  - Ejemplo:
+
+    ```html
+    <meta name="description" content="BookMe es la plataforma que conecta clientes con los mejores salones de belleza y barberías. Agenda citas al instante, visualiza servicios y precios.">
+    ```
+
+- **Keywords (Palabras clave):**
+Conjunto de términos representativos del contenido y servicios de la plataforma. Permiten al buscador identificar la relevancia de la página respecto a consultas de los usuarios.
+
+  - Ejemplo:
+
+  ```html
+  <meta name="keywords" content="reserva de citas, belleza, barbería, peluquería, estilistas, agenda online">
+  ```
+
+- **Author (Autor):**
+Identifica la entidad responsable del contenido de la página.
+
+  - Ejemplo:
+
+  ```html
+  <meta name="author" content="Prisma">
+  ```
+
+**Aplicación en las principales páginas**
+
+- **Landing Page:**
+
+  - Title: “BookMe - Reserva tu cita en salones de belleza y barberías”
+  - Meta Description: “BookMe conecta clientes con los mejores salones y barberías. Reserva al instante, consulta servicios y precios.”
+  - Keywords: “reserva de citas, belleza, barbería, peluquería, estilistas, agenda online”
+  - Author: “Prisma”
+
+- **Web Application:**
+
+- Cada sección o módulo de la aplicación (por ejemplo, Citas, Mis favoritos, Perfil) debe contar con un Title y Description específicos, que reflejen la funcionalidad del módulo, manteniendo consistencia con la marca y favoreciendo la indexación.
+
+- Ejemplo para módulo Citas:
+
+  ```html
+    <title>BookMe - Mis Citas</title>
+    <meta name="description" content="Gestiona tus citas de belleza y barbería en BookMe de forma rápida y sencilla.">
+    <meta name="keywords" content="mis citas, agenda, reservas, BookMe">
+    <meta name="author" content="Prisma">
+  ```
+
 
 ### 4.2.4. Searching Systems.
 La plataforma contará con un buscador principal que permitirá a los usuarios encontrar salones por nombre, servicio o ubicación. Los resultados se mostrarán en una lista filtrable y ordenable por valoración, proximidad o precio. Cada tarjeta de resultado incluirá información clave como nombre, valoración, ubicación y precios.
