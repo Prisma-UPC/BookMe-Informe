@@ -443,6 +443,9 @@ mejoraremos la confianza de los clientes y aumentaremos el uso del sistema de pa
 
 #### 1.2.2.4. Lean UX Canvas.
 
+<div align="center">
+<img src="img/lean-ux-canvas.jpg" alt="Landing Page Diagram" width="900" />
+</div> <br>
 
 ## 1.3. Segmentos Objetivo.
 
