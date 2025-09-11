@@ -1252,7 +1252,18 @@ El contenido se organizará mediante una combinación de sistemas jerárquicos y
 
 
 ### 4.2.2. Labeling Systems.
-Se utilizarán etiquetas claras y concisas para la navegación, como "Inicio", "Servicios", "Reservar", "Mi Perfil", "Contacto". Estas etiquetas serán consistentes en toda la plataforma para evitar confusiones. Para acciones específicas, se usarán verbos como "Agendar Cita", "Editar Perfil", "Cancelar Reserva".
+
+En BookMe, los sistemas de etiquetado están diseñados para representar la información de manera clara y sencilla, evitando confusiones para los usuarios y visitantes de la plataforma. Cada etiqueta se selecciona con el mínimo número de palabras, procurando que transmita de forma inmediata la función o el contenido asociado.
+
+Este enfoque se aplica a distintos elementos de la interfaz, tales como:
+
+- **Secciones principales:** “Citas”, “Mis favoritos”, “Mi perfil”.
+- **Servicios y categorías:** “Corte de cabello”, “Manicure”, “Alisado”.
+- **Estados de reserva:** “Confirmada”, “Pendiente”, “Cancelada”.
+
+Además, las etiquetas se organizan considerando las asociaciones entre los conjuntos de información, de modo que los usuarios puedan identificar relaciones entre servicios, profesionales y salones de manera intuitiva. Por ejemplo, una etiqueta de servicio vinculada a un profesional específico permite a los usuarios entender rápidamente quién ofrece qué servicio y cómo interactuar con él.
+
+Este sistema de etiquetado contribuye a una experiencia de usuario coherente y eficiente, en la que cada elemento de información es fácilmente reconocible y comprensible, reduciendo la carga cognitiva y facilitando la navegación dentro de la plataforma.
 
 ### 4.2.3. SEO Tags and Meta Tags
 - **Title:** BookMe - Reserva tu cita en salones de belleza y barberías
