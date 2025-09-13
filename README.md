@@ -1341,27 +1341,32 @@ La navegación se realizará mediante una barra superior fija que incluye el log
 
 El wireframe de la landing page presenta una estructura clara con hero section, value proposition, testimonios, catálogo de servicios y call-to-actions estratégicos. 
 
-- **Inicio:**
+- **Inicio:** En la parte superior se ubica nuestro logo principal atractivo y barra de navegación con las secciones de nuestra landing page. Incluye un botón de “Comienza gratis” como CTA destacado.
+
 <div align="center">
 <img src="img/Inicio.svg" alt="Home" width="600" />
 </div> <br>
 
-- **Caracteristicas:**
+- **Caracteristicas:** Se presentan las funcionalidades principales de la plataforma en bloques simples con íconos y descripciones breves, permitiendo que el usuario entienda rápidamente lo que ofrecemos.
+
 <div align="center">
 <img src="img/Caracteristicas.svg" alt="Home" width="600" />
 </div> <br>
 
-- **Beneficios:**
+- **Beneficios:** Sección dedicada a mostrar el valor agregado de la solución, resaltando las ventajas competitivas y diferenciales con respecto a alternativas existentes en el mercado.
+
 <div align="center">
 <img src="img/Beneficios.svg" alt="Home" width="600" />
 </div> <br>
 
-- **Testimonios:**
+- **Testimonios:** Espacio donde se muestran experiencias de usuarios satisfechos, reforzando la confianza y credibilidad en la plataforma.
+
 <div align="center">
 <img src="img/Testimonios.svg" alt="Home" width="600" />
 </div> <br>
 
-- **Unete:**
+- **Unete:** Sección final con un formulario de contacto y enlaces a redes sociales, ofreciendo múltiples vías de comunicación directa con la plataforma.
+
 <div align="center">
 <img src="img/Unete.svg" alt="Home" width="600" />
 </div> <br>
