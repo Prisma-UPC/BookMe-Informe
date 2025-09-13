@@ -1365,13 +1365,14 @@ El wireframe de la landing page presenta una estructura clara con hero section, 
 <img src="img/Testimonios.svg" alt="Home" width="600" />
 </div> <br>
 
-- **Unete:** Sección final con un formulario de contacto y enlaces a redes sociales, ofreciendo múltiples vías de comunicación directa con la plataforma.
+- **Unete:** Un bloque de llamado a la acción central, con un diseño llamativo que invita a los usuarios a registrarse o probar la plataforma de inmediato.
 
 <div align="center">
 <img src="img/Unete.svg" alt="Home" width="600" />
 </div> <br>
 
-- **Contacto:**
+- **Contacto:** Sección final con un formulario de contacto y enlaces a redes sociales, ofreciendo múltiples vías de comunicación directa con la plataforma.
+
 <div align="center">
 <img src="img/Contacto.svg" alt="Home" width="600" />
 </div> <br>
