@@ -1343,7 +1343,7 @@ El wireframe de la landing page presenta una estructura clara con hero section, 
 
 - **Inicio:**
 <div align="center">
-<img src="img/inicio.svg" alt="Home" width="600" />
+<img src="img/Inicio.svg" alt="Home" width="600" />
 </div> <br>
 
 - **Caracteristicas:**
