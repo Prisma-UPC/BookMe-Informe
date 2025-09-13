@@ -1350,37 +1350,72 @@ El wireframe de la landing page presenta una estructura clara con hero section, 
 - **Caracteristicas:** Se presentan las funcionalidades principales de la plataforma en bloques simples con íconos y descripciones breves, permitiendo que el usuario entienda rápidamente lo que ofrecemos.
 
 <div align="center">
-<img src="img/Caracteristicas.svg" alt="Home" width="600" />
+<img src="img/Caracteristicas.svg" alt="Caracteristicas" width="600" />
 </div> <br>
 
 - **Beneficios:** Sección dedicada a mostrar el valor agregado de la solución, resaltando las ventajas competitivas y diferenciales con respecto a alternativas existentes en el mercado.
 
 <div align="center">
-<img src="img/Beneficios.svg" alt="Home" width="600" />
+<img src="img/Beneficios.svg" alt="Beneficios" width="600" />
 </div> <br>
 
 - **Testimonios:** Espacio donde se muestran experiencias de usuarios satisfechos, reforzando la confianza y credibilidad en la plataforma.
 
 <div align="center">
-<img src="img/Testimonios.svg" alt="Home" width="600" />
+<img src="img/Testimonios.svg" alt="Testimonios" width="600" />
 </div> <br>
 
 - **Unete:** Un bloque de llamado a la acción central, con un diseño llamativo que invita a los usuarios a registrarse o probar la plataforma de inmediato.
 
 <div align="center">
-<img src="img/Unete.svg" alt="Home" width="600" />
+<img src="img/Unete.svg" alt="Unete" width="600" />
 </div> <br>
 
 - **Contacto:** Sección final con un formulario de contacto y enlaces a redes sociales, ofreciendo múltiples vías de comunicación directa con la plataforma.
 
 <div align="center">
-<img src="img/Contacto.svg" alt="Home" width="600" />
+<img src="img/Contacto.svg" alt="Contacto" width="600" />
 </div> <br>
 
 ### 4.3.2. Landing Page Mock-up.
-*(Imagen: Mock-up de la landing page con la aplicación de la paleta de colores y tipografía)*  
+ 
 El mock-up refleja la identidad de marca con uso del azul primario y rosa secundario. Los botones de CTA contrastan para destacar las acciones principales. Las imágenes muestran diversidad en los servicios ofrecidos.
 
+- **Inicio:**
+
+<div align="center">
+<img src="img/Inicio-MockUp.svg" alt="Inicio-MockUp" width="600" />
+</div> <br>
+
+- **Caracteristicas:** 
+
+<div align="center">
+<img src="img/Caracteristicas-MockUp.svg" alt="Caracteristicas-MockUp" width="600" />
+</div> <br>
+
+- **Beneficios:**
+
+<div align="center">
+<img src="img/Beneficios-MockUp.svg" alt="Beneficios-MockUp" width="600" />
+</div> <br>
+
+- **Testimonios:**
+
+<div align="center">
+<img src="img/Testimonios-MockUp.svg" alt="Testimonios-MockUp" width="600" />
+</div> <br>
+
+- **Unete:** 
+
+<div align="center">
+<img src="img/Unete-MockUp.svg" alt="Unete-MockUp" width="600" />
+</div> <br>
+
+- **Contacto:**
+
+<div align="center">
+<img src="img/Contacto-MockUp.svg" alt="Contacto-MockUp" width="600" />
+</div> <br>
 
 ## 4.4. Web Applications UX/UI Design.
 
