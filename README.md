@@ -1338,8 +1338,38 @@ La navegación se realizará mediante una barra superior fija que incluye el log
 ## 4.3. Landing Page UI Design.
 
 ### 4.3.1. Landing Page Wireframe.
-*(Imagen: Wireframe de la landing page para desktop y mobile)*  
-El wireframe de la landing page presenta una estructura clara con hero section, value proposition, testimonios, catálogo de servicios y call-to-actions estratégicos. En mobile, el contenido se apila verticalmente con un menú hamburguesa para la navegación.
+
+El wireframe de la landing page presenta una estructura clara con hero section, value proposition, testimonios, catálogo de servicios y call-to-actions estratégicos. 
+
+- **Inicio:**
+<div align="center">
+<img src="img/inicio.svg" alt="Home" width="600" />
+</div> <br>
+
+- **Caracteristicas:**
+<div align="center">
+<img src="img/Caracteristicas.svg" alt="Home" width="600" />
+</div> <br>
+
+- **Beneficios:**
+<div align="center">
+<img src="img/Beneficios.svg" alt="Home" width="600" />
+</div> <br>
+
+- **Testimonios:**
+<div align="center">
+<img src="img/Testimonios.svg" alt="Home" width="600" />
+</div> <br>
+
+- **Unete:**
+<div align="center">
+<img src="img/Unete.svg" alt="Home" width="600" />
+</div> <br>
+
+- **Contacto:**
+<div align="center">
+<img src="img/Contacto.svg" alt="Home" width="600" />
+</div> <br>
 
 ### 4.3.2. Landing Page Mock-up.
 *(Imagen: Mock-up de la landing page con la aplicación de la paleta de colores y tipografía)*  
