@@ -1084,28 +1084,19 @@ Segmento objetivo #2: Clientes de servicios de belleza
 
 ## 3.2. Impact Mapping.
 
-```mermaid
-graph TD
-    A[Increase Digital Adoption<br>in Beauty Salons] --> B(Cliente agenda más<br>y mejor);
-    A --> C(Dueño gestiona<br>más eficientemente);
-    A --> D(Prisma se convierte<br>en líder del mercado);
+![Alt text](img/Impact%20map%201.png)
 
-    B --> E[Provide Instant<br>Booking Platform];
-    B --> F[Offer Secure<br>Payment Gateway];
-    B --> G[Show Real-Time<br>Availability];
+Leyenda y Explicación:
 
-    C --> H[Provide Digital<br>Appointment Book];
-    C --> I[Offer Business<br>Management Tools];
-    C --> J[Generate Customer<br>Insights];
+Business Goals (Objetivos de Negocio): Los objetivos de alto nivel que Prisma quiere lograr con BookMe.
 
-    E --> K[Build Responsive<br>Web App];
-    E --> L[Implement Calendar<br>Integration API];
+Personas: Los actores clave cuyo comportamiento afecta el logro de los objetivos. Se utilizan los nombres del ejemplo provisto.
 
-    H --> M[Develop Admin<br>Dashboard];
-    H --> N[Build Notification<br>System Emails/SMS];
-```
+Impacts (Impactos): El cambio específico en el comportamiento de las personas que ayudará a lograr el objetivo empresarial.
 
+Deliverables (Entregables): Las características, funcionalidades o productos que se construirán para apoyar el impacto deseado.
 
+User Stories (Historias de Usuario): Las tareas específicas que implementan los entregables. Se han referenciado con los IDs de las User Stories definidas en la sección 3.1.
 
 **Objetivo General:** Aumentar la adopción digital en salones de belleza peruanos y mejorar la experiencia de reserva para los clientes.
 
