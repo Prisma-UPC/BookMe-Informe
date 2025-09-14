@@ -1379,39 +1379,39 @@ El wireframe de la landing page presenta una estructura clara con hero section, 
 
 ### 4.3.2. Landing Page Mock-up.
  
-El mock-up refleja la identidad de marca con uso del azul primario y rosa secundario. Los botones de CTA contrastan para destacar las acciones principales. Las imágenes muestran diversidad en los servicios ofrecidos.
+El mock-up refleja la identidad de marca con uso del azul primario y blanco secundario. Los botones de CTA contrastan para destacar las acciones principales. Las imágenes muestran diversidad en los servicios ofrecidos.
 
-- **Inicio:**
+- **Inicio**
 
 <div align="center">
 <img src="img/Inicio-MockUp.svg" alt="Inicio-MockUp" width="600" />
 </div> <br>
 
-- **Caracteristicas:** 
+- **Caracteristicas** 
 
 <div align="center">
 <img src="img/Caracteristicas-MockUp.svg" alt="Caracteristicas-MockUp" width="600" />
 </div> <br>
 
-- **Beneficios:**
+- **Beneficios**
 
 <div align="center">
 <img src="img/Beneficios-MockUp.svg" alt="Beneficios-MockUp" width="600" />
 </div> <br>
 
-- **Testimonios:**
+- **Testimonios**
 
 <div align="center">
 <img src="img/Testimonios-MockUp.svg" alt="Testimonios-MockUp" width="600" />
 </div> <br>
 
-- **Unete:** 
+- **Unete** 
 
 <div align="center">
 <img src="img/Unete-MockUp.svg" alt="Unete-MockUp" width="600" />
 </div> <br>
 
-- **Contacto:**
+- **Contacto**
 
 <div align="center">
 <img src="img/Contacto-MockUp.svg" alt="Contacto-MockUp" width="600" />
