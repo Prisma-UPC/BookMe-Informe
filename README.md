@@ -1443,13 +1443,48 @@ Durante la sesión de Design-Level Event Storming, se identificaron los siguient
 
 ### 4.6.2. Software Architecture Context Diagram.
 El sistema BookMe interactúa con usuarios (clientes y dueños de salones), y con sistemas externos como pasarelas de pago y servicios de notificaciones.
+<div align="center">
+<img src="img/context-diagram.png" alt="Software Architecture Context Diagram" width="Max" />
+</div> <br>
 
 ### 4.6.3. Software Architecture Container Diagrams.
 La arquitectura se compone de un frontend web, una API REST, una base de datos PostgreSQL y integraciones con Stripe (pagos) y Twilio (notificaciones SMS).
+<div align="center">
+<img src="img/container-diagram.png" alt="Software Architecture Context Diagram" width="Max" />
+</div> <br>
 
 ### 4.6.4. Software Architecture Components Diagrams.
 El componente de Reservations incluye clases como AppointmentService, CalendarManager y NotificationService, detallando sus responsabilidades e interacciones.
 
+#### Single Page Application Diagram
+<div align="center">
+<img src="img/component-diagram-1.png" alt="Single Page Application" width="Max" />
+</div> <br>
+
+#### Profiles Diagram
+<div align="center">
+<img src="img/component-diagram-2.png" alt="Profiles Context" width="Max" />
+</div> <br>
+
+#### Reservation Diagram
+<div align="center">
+<img src="img/component-diagram-3.png" alt="Reservation Context" width="Max" />
+</div> <br>
+
+#### Reviews Diagram
+<div align="center">
+<img src="img/component-diagram-4.png" alt="Reviews Context" width="Max" />
+</div> <br>
+
+#### Services Diagram
+<div align="center">
+<img src="img/component-diagram-5.png" alt="Services Context" width="Max" />
+</div> <br>
+
+#### Workers Diagram
+<div align="center">
+<img src="img/component-diagram-6.png" alt="Workers Context" width="Max" />
+</div> <br>
 
 ### 4.7. Software Object-Oriented Design.
 
@@ -1459,6 +1494,9 @@ El componente de Reservations incluye clases como AppointmentService, CalendarMa
 ## 4.8. Database Design.
 
 ### 4.8.1. Database Diagram.
+<div align="center">
+<img src="img/database-diagram.png" alt="BookMe Database Diagram" width="Max" />
+</div> <br>
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
