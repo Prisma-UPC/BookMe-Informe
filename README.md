@@ -1478,9 +1478,65 @@ El componente de Reservations incluye clases como AppointmentService, CalendarMa
 </div> <br>
 
 ### 4.7. Software Object-Oriented Design.
-
 ### 4.7.1. Class Diagrams.
+#### Diagrama completo
+<div align="center">
+<img src="img/uTime_Backend.svg" alt="Complete Diagram" width="Max" />
+</div> <br>
 
+#### Profile Context
+<div align="center">
+<img src="img/profile-context.svg" alt="Profile Context" width="Max" />
+</div> <br>
+
+#### Reservation Context
+<div align="center">
+<img src="img/reservation-context-diagram.svg" alt="Reservation Context" width="Max" />
+</div> <br>
+
+#### Review Context
+<div align="center">
+<img src="img/reviews-context-diagram.svg" alt="Review Context" width="Max" />
+</div> <br>
+
+#### Services Context
+<div align="center">
+<img src="img/services-context-diagram.svg" alt="Services Context" width="Max" />
+</div> <br>
+
+#### Review Context
+<div align="center">
+<img src="img/shared-context-diagram.svg" alt="Shared Context" width="Max" />
+</div> <br>
+
+#### Workers Context
+<div align="center">
+<img src="img/workers-context-diagram.svg" alt="Workers Context" width="Max" /></div> <br>
+
+#### Diagrama del frontend
+<div align="center">
+<img src="img/class-diagram-frontend.png" alt="Frontend diagram" width="Max" />
+</div> <br>
+
+#### Dashboard y Appointment - Frontend
+<div align="center">
+<img src="img/class-diagram-frontend-dash_appo.png" alt="Dashboard y Appointment" width="Max" />
+</div> <br>
+
+#### Profile y IAM - Frontend
+<div align="center">
+<img src="img/class-diagram-frontend-prof_iam.png" alt="Profile y IAM" width="Max" />
+</div> <br>
+
+#### Provider Settings y Reviews - Frontend
+<div align="center">
+<img src="img/class-diagram-frontend-provsett_pub_rev.png" alt="Provider Settings y Reviews" width="Max" />
+</div> <br>
+
+#### Schedule y Services - Frontend
+<div align="center">
+<img src="img/class-diagram-frontend-sched_serv.png" alt="Schedule y Services" width="Max" />
+</div> <br>
 
 ## 4.8. Database Design.
 
