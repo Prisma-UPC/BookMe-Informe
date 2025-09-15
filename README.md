@@ -1552,6 +1552,37 @@ El componente de Reservations incluye clases como AppointmentService, CalendarMa
 
 ### 5.1.1. Software Development Environment Configuration.
 
+**Project Management**
+
+**Discord** funciona como la herramienta principal de comunicación en tiempo real entre los integrantes del equipo. Gracias a sus canales estructurados por temas y roles, permite llevar a cabo reuniones, coordinar las actividades diarias y brindar soporte inmediato a lo largo de todo el proceso de desarrollo. <br>
+Ruta de referencia: [Discord](https://discord.com)
+
+**Diseño UX/UI de Producto**
+
+**Figma** se emplea como la herramienta principal para crear interfaces gráficas (UI) y definir la experiencia de usuario (UX). Facilita la colaboración en tiempo real entre varios miembros del equipo para elaborar prototipos interactivos, maquetas visuales y pruebas de diseño. <br>
+Ruta de referencia: [Figma](https://www.figma.com)
+
+**UXPressia** refuerza el proceso de UX al ofrecer recursos para generar y documentar User Personas, Customer Journey Maps y Empathy Maps. Esto permite comprender mejor a los usuarios finales y orientar las decisiones de diseño en función de sus necesidades. <br>
+Ruta de referencia: [UXpressia](https://uxpressia.com)
+
+**Trello** contribuye a la organización del trabajo de UX mediante tableros, listas y tarjetas, lo que facilita la gestión visual de tareas, ideas y flujos. Ayuda a que los equipos de diseño y desarrollo colaboren de manera ágil, prioricen funcionalidades centradas en el usuario y hagan seguimiento al avance de los proyectos. <br>
+Ruta de referencia: [Trello](https://trello.com)
+
+**Software Development**
+
+**Visual Studio Code (VS Code)** es el editor de código principal utilizado en el desarrollo. Ofrece un entorno ligero y altamente personalizable que integra soporte para múltiples lenguajes de programación, extensiones y herramientas de depuración. Gracias a sus funciones de control de versiones y compatibilidad con Git, facilita el trabajo colaborativo y eficiente en los proyectos de software. <br>
+Referencia: [Visual Studio Code](https://code.visualstudio.com/)
+
+**Software Deployment**
+
+**Git** se emplea como sistema de control de versiones para administrar el historial de cambios en el código fuente. Permite la colaboración simultánea de varios desarrolladores con control sobre ramas, fusiones y diferentes versiones del proyecto. <br>
+Referencia: [Git](https://git-scm.com/)
+
+**GitHub** es la plataforma en línea donde se alojan y gestionan los repositorios del proyecto. Ofrece herramientas para la colaboración, control de versiones, gestión de issues y pull requests, lo que asegura una integración ordenada y segura de los cambios en el software. <br>
+Referencia: [GitHub](https://github.com/)
+
+**GitHub Pages** se emplea como plataforma de alojamiento para desplegar la interfaz frontend de la aplicación. Al estar integrada con los repositorios de GitHub, posibilita la publicación de sitios web estáticos de manera rápida, automatizada y gratuita. <br>
+Referencia: [GitHub Pages](https://docs.github.com/es/pages)
 
 ### 5.1.2. Source Code Management.
 
