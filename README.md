@@ -1639,19 +1639,42 @@ Para mantener un código consistente, ordenado y sostenible:
 
 Ejemplo:  
 ```html
-<img src="abc.img" alt="image name" style="width:128px;height:128px">
+<img src="img/logo.png" alt="Logo principal de la empresa" width="128" height="128">
 ```
 
 **CSS**
 
 - Las convenciones de estilo para hojas de estilo en cascada incluyen:
 - Asignar nombres de clases breves y claros, que describan su función.
-- Utilizar guiones para separar palabras en nombres de clases o identificadores (ejemplo: #video-id, .hero-shadow {}).
+- Utilizar guiones para separar palabras en nombres de clases o identificadores.
 - Evitar colocar unidades de medida después del valor 0.
 - Escribir cada selector y declaración en líneas separadas para facilitar la lectura.
 
 ### 5.1.4. Software Deployment Configuration.
 
+**Despliegue de la Landing Page**
+
+Para desplegar la landing page se deben cumplir algunos requisitos previos:  
+- Contar con una **cuenta personal en GitHub**.  
+- Disponer de una **organización**.  
+- Tener un **repositorio** donde alojar los archivos del proyecto.  
+
+**Pasos para el despliegue:**
+
+1. Crear una carpeta llamada **`docs`** que contendrá la landing page.  
+2. Asegurar que los archivos cumplan con la siguiente convención de nombres:  
+   - `index.html` → página principal.  
+   - `style.css` → hoja de estilos.  
+   - `img/` → carpeta que almacena las imágenes. 
+   - `src/` → carpeta del proyecto landing page
+
+3. Subir todos los archivos al repositorio en GitHub.  
+4. Ingresar a **Settings > Pages** dentro del repositorio.  
+5. Seleccionar la rama que contiene el proyecto (generalmente `main` o `master`).  
+6. Indicar la carpeta **`/docs`** como fuente de la página.  
+7. Esperar a que GitHub realice las validaciones automáticas.  
+
+![Deplyment](/img/deployment.png)
 
 ## 5.2. Landing Page, Services & Applications Implementation.
 
