@@ -1765,12 +1765,12 @@ Para este Sprint se han establecido los aspectos esenciales relacionados con el 
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
-| **Alumno** | **Actividad** |
-|------------|---------------|
-|            |               |
-|            |               |
-|            |               |
-|            |               |
+| **Alumno**                             | **Actividad**                                                       |
+|----------------------------------------|---------------------------------------------------------------------|
+| Julca Cruz, Renso Anthony              | Implementación de las Caracteristicas de la Landing Page            |
+| Julca Cruz, Renso Anthony              | Implementación de los Beneficios de la Landing Page                 |
+| Julca Cruz, Renso Anthony              | Implementación de los Testimonios de la Landing Page                |
+| Julca Cruz, Renso Anthony              | Implementación de Contacto de la Landing Page                       |
 
   
 
