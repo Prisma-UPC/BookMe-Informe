@@ -163,9 +163,7 @@ A continuación, se describen las ramas más significativas dentro de la estruct
 
 El proceso de colaboración en la elaboración del informe se gestionó a través de la realización continua de *commits* en el repositorio oficial de la organización **Prisma**, lo que permitió mantener un control de versiones adecuado y garantizar la integración coherente de los aportes individuales.
 
-![Contributors1]()
-![Contributors2]()
-
+![Contributors1](/img/Contributors1.png)
 
 # Contenido
 
