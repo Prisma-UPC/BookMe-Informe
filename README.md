@@ -873,6 +873,35 @@ El análisis competitivo es una herramienta clave para la toma de decisiones est
 
 #### Datos del Entrevistado #01
 
+- **Nombre completo:** Fiorella Vilca
+- **Segmento Objetivo:** Dueños de salones de belleza
+- **Edad:** 23 años
+- **Distrito:** San Martin de Porres
+- **Screenshot del cuadro de video:**
+
+![Entrevista-Imagen2](img/Entrevista-Imagen2.png)
+
+- **URL del video (Microsoft Stream):** [Link de la Entrevista](https://youtu.be/7p05seZAsvU)
+- **Inicio de la entrevista:** 00:00:00
+- **Duración:** 00:03:35
+
+**Resumen:** <br>
+La entrevistada fue Fiorela Vilc, de 23 años, quien explicó cómo gestiona actualmente las reservas de su salón. Principalmente organiza las citas por WhatsApp, llamadas y una agenda física, ya que todavía no cuenta con un sistema automatizado.
+
+Comentó que sus principales dificultades son las cancelaciones de último momento, la inasistencia de clientes, la desorganización de horarios entre estilistas y la falta de control claro de los pagos. Para apoyar su gestión, utiliza WhatsApp, Instagram y Facebook en la promoción y agendamiento, y en ocasiones Excel para manejar cuentas bancarias.
+
+Considera que reducir cancelaciones y mejorar la puntualidad es fundamental, porque cada cita perdida representa menos ingresos y descoordinación. En este sentido, afirmó que una aplicación que centralice reservas, recordatorios y pagos tendría mucho valor, ya que le permitiría ahorrar tiempo, profesionalizar el servicio y generar mayor confianza en los clientes.
+
+En cuanto a dispositivos, utiliza principalmente el smartphone, y la computadora solo para revisar información más detallada. Respecto a sus objetivos a mediano plazo, busca abrir otro local, fortalecer su marca en redes sociales e implementar servicios digitales para fidelizar clientes.
+
+Finalmente, recordó experiencias negativas con la gestión de reservas, como el uso de Excel compartido, que resultó confuso y desordenado, con horarios duplicados o información borrada. También mencionó que con WhatsApp algunos mensajes se perdían, generando que varios clientes llegaran al mismo horario.
+
+- **URL del video (Microsoft Stream):** [Link de la Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201916143_upc_edu_pe/EeHWYnUuGCZIkS4jic56Uj8B2isHhpAGQm-qsuLbyGDU1w?e=iReqDU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- **Inicio de la entrevista:** 00:00:08
+- **Duración:** 00:05:45
+
+#### Datos del Entrevistado #02
+
 - **Nombre completo:** Dora De la Torre
 - **Segmento Objetivo:** Estilista profesional de Peluqueria Maritza
 - **Edad:** 63 años
@@ -885,22 +914,11 @@ El análisis competitivo es una herramienta clave para la toma de decisiones est
 - **Inicio de la entrevista:** 00:00:08
 - **Duración:** 00:05:45
 
+**Resumen:** <br>
+
+
 ### Segmento Objetivo 2 - Cliente
 #### Datos del Entrevistado #01
-
-- **Nombre completo:** Rosa Maria Callirgos Martorel
-- **Segmento Objetivo:** Clientes de salones de belleza
-- **Edad:** 67 años
-- **Distrito:** San Miguel
-- **Screenshot del cuadro de video:** 
-
-![Entrevista-Imagen](img/Entrevista-Cliente-Marcelo-1.png)
-
-- **URL del video (Microsoft Stream):** [Link de la Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201916143_upc_edu_pe/EfZaYTrnellBp2g5loruoZ0BEfCUYxB4_9fRn9n7pMAAlw?e=RVWUl6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-- **Inicio de la entrevista:** 00:00:12
-- **Duración:** 00:06:46
-
-#### Datos del Entrevistado #02
 
 - **Nombre completo:** Allison Milagros Rivera Quispe
 - **Segmento Objetivo:** Clientes de salones de belleza
@@ -927,47 +945,91 @@ En su elección de un salón, lo más importante para ella es la reputación del
 
 Finalmente, indicó que utiliza principalmente su smartphone para realizar reservas y se informa a través de Instagram y TikTok, donde observa las fotos y publicaciones de los salones. Sobre su disposición a recomendar, afirmó que sí recomendaría una aplicación confiable de reservas a sus amigos o familiares, ya que le resultaría práctica y útil.
 
+#### Datos del Entrevistado #01
+
+- **Nombre completo:** Rosa Maria Callirgos Martorel
+- **Segmento Objetivo:** Clientes de salones de belleza
+- **Edad:** 67 años
+- **Distrito:** San Miguel
+- **Screenshot del cuadro de video:** 
+
+![Entrevista-Imagen](img/Entrevista-Cliente-Marcelo-1.png)
+
+- **URL del video (Microsoft Stream):** [Link de la Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201916143_upc_edu_pe/EfZaYTrnellBp2g5loruoZ0BEfCUYxB4_9fRn9n7pMAAlw?e=RVWUl6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- **Inicio de la entrevista:** 00:00:12
+- **Duración:** 00:06:46
+
+**Resumen:** <br>
+
+
 ### 2.2.3. Análisis de entrevistas.
+- **Análisis del Segmento Objetivo 01**
 
-- **Análisis del Segmento Objetivo 01** 
+- Características Objetivas
+  - Demografía:
+    - Fiorela Vilc, mujer de 23 años, emprendedora del rubro de belleza (salón/barbería).
+    - Dueña/gestora de negocio pequeño en etapa de crecimiento.
+  - Comportamiento de Consumo:
+    - Gestiona citas de manera manual mediante WhatsApp, llamadas y agenda física.
+    - Usa redes sociales (Instagram, Facebook) para promoción.
+    - Complementa con Excel para llevar algunos controles, aunque con limitaciones.
 
-  - Características Objetivas:
+- Preferencias de Comunicación y Pago:
+  - Prefiere el smartphone como principal dispositivo de gestión.
+  - Utiliza computadora solo para tareas más específicas.
+  - No menciona un método de pago digital establecido, pero muestra apertura a integrar pagos centralizados en una aplicación.
 
-    - Demografía y Experiencia: 
-      +
-    - Gestión del Negocio:
-      +
-    - Estrategias de Fidelización:
-      + 
+- **Características Subjetivas**
 
-  - Características Subjetivas:
+  - Valores y Prioridades:
+    - Valora la puntualidad y responsabilidad de los clientes, ya que la inasistencia afecta directamente sus ingresos.
+    - Busca profesionalizar y digitalizar su negocio para dar mayor confianza.
+    - Da importancia a la organización y eficiencia del servicio.
 
-    - Motivación y Pasión:
-      + 
-    - Desafíos y Necesidades:
-      + 
-    - Visión a Futuro:
-      + 
+  - Actitudes y Expectativas:
+    - Se muestra abierta a la tecnología y reconoce sus beneficios, aunque todavía gestiona de forma tradicional.
+    - Tiene una visión de crecimiento: abrir otro local y fortalecer su marca en redes sociales.
+    - Espera que una herramienta digital le ayude a ahorrar tiempo, evitar confusiones y fidelizar clientes.
 
-- **Análisis del Segmento Objetivo 02**
+  - Necesidades y Deseos:
+    - Requiere una plataforma que centralice reservas, recordatorios y pagos.
+    - Necesita reducir cancelaciones e inasistencias para optimizar la atención.
+    - Desea un sistema que facilite la organización de horarios entre varios estilistas y el control de pagos.
 
-  - Características Objetivas:
+- **Análisis del Segmento Objetivo 01**
+- **Características Objetivas**
+  - **Demografía:**
+    - Allison Milagros Rivera Quispe, estudiante de administración.  
+    - Joven usuaria de servicios de belleza.  
 
-    - Demografía:
-      + 
-    - Comportamiento de Consumo:
-      + 
-    - Preferencias de Comunicación y Pago:
-      + 
+  - **Comportamiento de Consumo:**
+    - Reserva citas principalmente por **WhatsApp o llamadas**.  
+    - También usaría **página web o aplicación** porque las percibe más organizadas.  
+    - Usa **smartphone** como dispositivo principal.  
 
-  - Características Subjetivas:
+  - **Preferencias de Comunicación y Pago:**
+    - Prefiere pagar **en línea** por ser más seguro, rápido y cómodo.  
+    - También acepta la opción de pagar en el local.  
+    - Descubre salones y promociones a través de **Instagram y TikTok**.  
 
-    - Valores y Prioridades:
-      + 
-    - Actitudes y Expectativas:
-      + 
-    - Necesidades y Deseos:
-      + 
+
+- **Características Subjetivas**
+
+  - **Valores y Prioridades:**
+    - Da gran importancia a la **transparencia en precios, reseñas y disponibilidad**.  
+    - Valora la **reputación del servicio** como principal factor de elección.  
+    - Considera la **cercanía** y el **precio** en segundo plano.  
+
+  - **Actitudes y Expectativas:**
+    - Busca confianza y seguridad en el servicio.  
+    - Tiene una actitud abierta hacia herramientas digitales que hagan más ordenado el proceso.  
+    - Prefiere opciones que le permitan **ahorrar tiempo y evitar esperas innecesarias**.  
+
+  - **Necesidades y Deseos:**
+    - Desea ver la **agenda en tiempo real** y elegir a su **estilista de confianza**.  
+    - Necesita recibir **recordatorios automáticos**.  
+    - Quiere poder **cancelar o reprogramar citas de manera sencilla**.  
+    - Busca servicios de belleza confiables y prácticos para recomendar a su entorno.  
 
 ## 2.3. Needfinding.
 
