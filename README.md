@@ -1682,6 +1682,63 @@ Para desplegar la landing page se deben cumplir algunos requisitos previos:
 
 #### 5.2.1.1. Sprint Planning 1.
 
+En el marco de Scrum, un Sprint corresponde a un período corto y definido en el que el equipo lleva a cabo las tareas necesarias para avanzar hacia el objetivo general del proyecto, conocido como Product Goal (Schwaber & Sutherland, 2020). Para el desarrollo de la plataforma uTime, se decidió dividir el trabajo en cuatro sprints, cada uno con una duración de dos semanas. El Sprint 1, iniciado el 10/04/2025, tiene como propósito principal diseñar una landing page atractiva que logre captar la atención de los visitantes y transmita de manera clara los beneficios clave del producto.
+
+<table>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint #</b></td>
+      <td colspan="1" align="center">Sprint 1</td>
+   </tr>
+   <tr>
+      <td colspan="2" align="center"><b>Sprint Planning Background</b></td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Date</b></td>
+      <td colspan="1">2025-09-12</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Time</b></td>
+      <td colspan="1">05:00 PM</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Location</b></td>
+      <td colspan="1">Reunión virtual mediante la aplicación Discord</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Prepare By</b></td>
+      <td colspan="1">Renso Julca</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Attendees (to planning meeting)</b></td>
+      <td colspan="1">Julca Cruz, Renso Anthony</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint n - 1 Review Summary</b></td>
+      <td colspan="1">Este es el primer sprint del proyecto, por lo tanto, no hay resultados de un sprint anterior para revisar.</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint n - 1 Retrospective Summary</b></td>
+      <td colspan="1">Al tratarse del primer sprint, no se cuenta con una retrospectiva previa. La retroalimentación y oportunidades de mejora se evaluarán al finalizarse este sprint.</td>
+   </tr>
+   <tr>
+      <td colspan="2" align="center"><b>Sprint Goal & User Stories</b></td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint 1 Goal</b></td>
+      <td colspan="1"><b>Our focus is on</b> creating an attractive and fully functional landing page for BookMe.<br><b>We believe it delivers</b> a clear presentation of the platform’s features and benefits, building trust and interest among potential users.<br><b>This will be confirmed when</b> visitors can easily explore and interact with all main sections of the landing page (characteristics, benefits, testimonials, and contact) on both desktop and mobile devices.</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sprint 1 Velocity</b></td>
+      <td colspan="1">13</td>
+   </tr>
+   <tr>
+      <td colspan="1" align="center"><b>Sum of Story Points</b></td>
+      <td colspan="1">13</td>
+   </tr>
+
+   <tr>
+</tr>
+</table>
 
 #### 5.2.1.2. Aspect Leaders and Collaborators.
 
