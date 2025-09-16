@@ -1501,8 +1501,17 @@ El mock-up refleja la identidad de marca con uso del azul primario y blanco secu
 ## 4.4. Web Applications UX/UI Design.
 
 ### 4.4.1. Web Applications Wireframes.
-*(Imagen: Wireframes de las principales pantallas de la aplicación web - login, dashboard, agenda de citas)*  
-Los wireframes detallan la layout de la aplicación, mostrando la disposición de los elementos en cada vista clave, priorizando la usabilidad y la eficiencia en las tareas.
+<div align="center">
+<img src="img/Screenshot 2025-09-16 03.09.56.png" alt="Contacto-MockUp" width="600" />
+</div> <br>
+
+<div align="center">
+<img src="img/Screenshot 2025-09-16 03.10.07.png" alt="Contacto-MockUp" width="600" />
+</div> <br>
+
+<div align="center">
+<img src="img/Screenshot 2025-09-16 03.10.16.png" alt="Contacto-MockUp" width="600" />
+</div> <br>
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 *(Imagen: Wireflow del proceso de agendamiento de una cita)*  
