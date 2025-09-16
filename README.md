@@ -1682,7 +1682,7 @@ Para desplegar la landing page se deben cumplir algunos requisitos previos:
 
 #### 5.2.1.1. Sprint Planning 1.
 
-En el marco de Scrum, un Sprint corresponde a un período corto y definido en el que el equipo lleva a cabo las tareas necesarias para avanzar hacia el objetivo general del proyecto, conocido como Product Goal (Schwaber & Sutherland, 2020). Para el desarrollo de la plataforma uTime, se decidió dividir el trabajo en cuatro sprints, cada uno con una duración de dos semanas. El Sprint 1, iniciado el 10/04/2025, tiene como propósito principal diseñar una landing page atractiva que logre captar la atención de los visitantes y transmita de manera clara los beneficios clave del producto.
+En el marco de Scrum, un Sprint corresponde a un período corto y definido en el que el equipo lleva a cabo las tareas necesarias para avanzar hacia el objetivo general del proyecto, conocido como Product Goal (Schwaber & Sutherland, 2020). Para el desarrollo de la plataforma uTime, se decidió dividir el trabajo en cuatro sprints, cada uno con una duración de dos semanas. El Sprint 1, iniciado el 12/09/2025, tiene como propósito principal diseñar una landing page atractiva que logre captar la atención de los visitantes y transmita de manera clara los beneficios clave del producto.
 
 <table>
    <tr>
