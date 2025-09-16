@@ -863,30 +863,44 @@ El análisis competitivo es una herramienta clave para la toma de decisiones est
 8. ¿Cómo te gusta recibir recordatorios de tu cita o promociones? (Mensajes de WhatsApp, correos, redes sociales, llamadas).
 9. ¿Has utilizado alguna aplicación o plataforma para reservar citas en salones de belleza? ¿Cómo fue tu experiencia?
 10. ¿Qué aspecto te gustaría que mejoraran los salones de belleza para una mejor experiencia como cliente?
-11. ¿Qué tan importante es para ti que el salón o barbería tenga una presencia activa en redes sociales o en línea?
+11. ¿Qué tan importante es para ti que el salón tenga una presencia activa en redes sociales o en línea?
 12. ¿Cuánto valoras la opción de poder hacer pagos anticipados o de forma digital para evitar el manejo de efectivo?
 
 
 ### 2.2.2. Registro de entrevistas.
 
-### Segmento Objetivo 1 (NOMBRE DEL SEGMENTO OBJETIVO)
-
-#### Datos del Entrevistado #0
-
-- **Nombre completo:**
-- **Segmento Objetivo:**
-- **Edad:**
-- **Distrito:**
-- **Screenshot del cuadro de video:**
-- **URL del video (Microsoft Stream):**
-- **Inicio de la entrevista:**
-- **Duración:**
-
-**Resumen:**
-
-### Segmento Objetivo 2
+### Segmento Objetivo 1 - Estilista
 
 #### Datos del Entrevistado #01
+
+- **Nombre completo:** Dora De la Torre
+- **Segmento Objetivo:** Estilista profesional de Peluqueria Maritza
+- **Edad:** 63 años
+- **Distrito:** San Miguel
+- **Screenshot del cuadro de video:** 
+
+![Entrevista-Imagen](img/Entrevista-Estilista-Marcelo-1.png)
+
+- **URL del video (Microsoft Stream):** [Link de la Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201916143_upc_edu_pe/EeHWYnUuGCZIkS4jic56Uj8B2isHhpAGQm-qsuLbyGDU1w?e=iReqDU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- **Inicio de la entrevista:** 00:00:08
+- **Duración:** 00:05:45
+
+### Segmento Objetivo 2 - Cliente
+#### Datos del Entrevistado #01
+
+- **Nombre completo:** Rosa Maria Callirgos Martorel
+- **Segmento Objetivo:** Clientes de salones de belleza
+- **Edad:** 67 años
+- **Distrito:** San Miguel
+- **Screenshot del cuadro de video:** 
+
+![Entrevista-Imagen](img/Entrevista-Cliente-Marcelo-1.png)
+
+- **URL del video (Microsoft Stream):** [Link de la Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201916143_upc_edu_pe/EfZaYTrnellBp2g5loruoZ0BEfCUYxB4_9fRn9n7pMAAlw?e=RVWUl6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- **Inicio de la entrevista:** 00:00:12
+- **Duración:** 00:06:46
+
+#### Datos del Entrevistado #02
 
 - **Nombre completo:** Allison Milagros Rivera Quispe
 - **Segmento Objetivo:** Clientes de salones de belleza
