@@ -915,7 +915,13 @@ Finalmente, recordó experiencias negativas con la gestión de reservas, como el
 - **Duración:** 00:05:45
 
 **Resumen:** <br>
+Nuestra entrevistada comenta que en su trabajo, las empleadas programan sus citas por whatsapp, llamadas telefonicas o presencialmente, y prosiguen a hacer un horario por notas de celular.
 
+Aclaró que si bien es cierto, a veces sus clientela cancela o reprograma sus citas, no se tiene mucha dificultad por ello. Y manejan sus pagos por principalmente por el aplicativo Yape, este ultimo siendo un ligero inconveniente al tener que luego gestionar y documentar sus ingresas, además de apuntar los productos usados en sus servicios y demás.
+
+Está abierta a la idea de usar un aplicativo que le facilite aún más el cumplir estas tareas y de cierta manera, automatizar esos procesos tediosos. Ya que usa principalmente el smartphone para comunicarse con sus clientas frecuentes.
+
+En cuanto a dificultados en su trabajo, más que la gestión de reservas, considera que la seguridad es lo principal ante todo. Por lo que el tener un registro de la persona que asistiría a su local es un alivio para tener registro en caso de algún problema. Ya que en el pasado ha tenido malas experiencias con clientes que no actuaron de manera adecuada.
 
 ### Segmento Objetivo 2 - Cliente
 #### Datos del Entrevistado #01
@@ -960,15 +966,20 @@ Finalmente, indicó que utiliza principalmente su smartphone para realizar reser
 - **Duración:** 00:06:46
 
 **Resumen:** <br>
+La entrevistada frecuenta cada 3 semanas a salones de belleza de confianza, y repercute a la misma estilista, ya que con ella misma ya conoce sus gustos, el manejo debido de los servicios que solicita y existe una relación de confianza entre las dos.
 
+Comenta que su principal problema, es cuando existe una emergencia y requiere de un servicio pronto. Por lo que la idea de que el aplicativo no solo le ayude en entablar conexión con su estilista de confianza y ver su disponibilidad, sino que en caso que no pueda recibir servicio de esta misma, poder ver otras opciones cerca en el área y ver las opiniones de los demás para ir con mayor seguridad.
+
+Si bien no usa aplicativos para sus citas, considera que estas herramientas serían importantes para acelerar procesos, y que tendrían rápido acceso a promociones o disponibilidad que la motiven a ver otras opciones cercanas.
 
 ### 2.2.3. Análisis de entrevistas.
 - **Análisis del Segmento Objetivo 01**
 
 - Características Objetivas
-  - Demografía:
-    - Fiorela Vilc, mujer de 23 años, emprendedora del rubro de belleza (salón/barbería).
-    - Dueña/gestora de negocio pequeño en etapa de crecimiento.
+  - Demografía y experiencia:
+    - Fiorela Vilc, mujer de 23 años, emprendedora del rubro de belleza (salón de belleza). Dueña/gestora de negocio pequeño en etapa de crecimiento.
+    - Dora de la Torre, mujer de 63 años, con 18 años de experiencia como estilista en salón de belleza.
+
   - Comportamiento de Consumo:
     - Gestiona citas de manera manual mediante WhatsApp, llamadas y agenda física.
     - Usa redes sociales (Instagram, Facebook) para promoción.
@@ -977,14 +988,14 @@ Finalmente, indicó que utiliza principalmente su smartphone para realizar reser
 - Preferencias de Comunicación y Pago:
   - Prefiere el smartphone como principal dispositivo de gestión.
   - Utiliza computadora solo para tareas más específicas.
-  - No menciona un método de pago digital establecido, pero muestra apertura a integrar pagos centralizados en una aplicación.
+  - Por opción preferida de la clientela, hace uso de aplicativos para pagar como Yape o Plin, pero muestra apertura a integrar pagos centralizados en una aplicación que le fácilite su trabajo.
 
 - **Características Subjetivas**
 
   - Valores y Prioridades:
-    - Valora la puntualidad y responsabilidad de los clientes, ya que la inasistencia afecta directamente sus ingresos.
+    - Valora la confianza, puntualidad y responsabilidad de los clientes, ya que la inasistencia afecta directamente sus ingresos.
     - Busca profesionalizar y digitalizar su negocio para dar mayor confianza.
-    - Da importancia a la organización y eficiencia del servicio.
+    - Da importancia a su imagen, la organización y eficiencia del servicio.
 
   - Actitudes y Expectativas:
     - Se muestra abierta a la tecnología y reconoce sus beneficios, aunque todavía gestiona de forma tradicional.
@@ -996,11 +1007,11 @@ Finalmente, indicó que utiliza principalmente su smartphone para realizar reser
     - Necesita reducir cancelaciones e inasistencias para optimizar la atención.
     - Desea un sistema que facilite la organización de horarios entre varios estilistas y el control de pagos.
 
-- **Análisis del Segmento Objetivo 01**
+- **Análisis del Segmento Objetivo 02**
 - **Características Objetivas**
   - **Demografía:**
-    - Allison Milagros Rivera Quispe, estudiante de administración.  
-    - Joven usuaria de servicios de belleza.  
+    - Allison Milagros Rivera Quispe, estudiante de administración. Joven usuaria de servicios de belleza.
+    - Rosa Maria Callirgos Martorel, ama de casa. Frecuenta a salones de belleza para servicios.
 
   - **Comportamiento de Consumo:**
     - Reserva citas principalmente por **WhatsApp o llamadas**.  
@@ -1010,13 +1021,13 @@ Finalmente, indicó que utiliza principalmente su smartphone para realizar reser
   - **Preferencias de Comunicación y Pago:**
     - Prefiere pagar **en línea** por ser más seguro, rápido y cómodo.  
     - También acepta la opción de pagar en el local.  
-    - Descubre salones y promociones a través de **Instagram y TikTok**.  
+    - Descubre salones y promociones a través de **Facebook, Instagram y TikTok**.  
 
 
 - **Características Subjetivas**
 
   - **Valores y Prioridades:**
-    - Da gran importancia a la **transparencia en precios, reseñas y disponibilidad**.  
+    - Da gran importancia tanto a la **transparencia en precios, reseñas y disponibilidad** del local, como a la **habilidad** de los estilistas.  
     - Valora la **reputación del servicio** como principal factor de elección.  
     - Considera la **cercanía** y el **precio** en segundo plano.  
 
