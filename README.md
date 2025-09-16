@@ -1628,6 +1628,27 @@ Los mensajes de los commits se ajustarán al estándar Conventional Commits, bas
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 
+**HTML**
+
+Para mantener un código consistente, ordenado y sostenible:  
+
+- Cerrar todas las etiquetas HTML.  
+- Usar minúsculas en los nombres de elementos y atributos (evitar la mezcla de mayúsculas/minúsculas).  
+- Colocar comillas en los atributos que contengan espacios.  
+- Especificar siempre el atributo alt y las dimensiones (width, height) en las imágenes.  
+
+Ejemplo:  
+```html
+<img src="abc.img" alt="image name" style="width:128px;height:128px">
+```
+
+**CSS**
+
+- Las convenciones de estilo para hojas de estilo en cascada incluyen:
+- Asignar nombres de clases breves y claros, que describan su función.
+- Utilizar guiones para separar palabras en nombres de clases o identificadores (ejemplo: #video-id, .hero-shadow {}).
+- Evitar colocar unidades de medida después del valor 0.
+- Escribir cada selector y declaración en líneas separadas para facilitar la lectura.
 
 ### 5.1.4. Software Deployment Configuration.
 
