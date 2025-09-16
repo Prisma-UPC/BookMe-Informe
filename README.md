@@ -1327,7 +1327,7 @@ La plataforma contará con un buscador principal que permitirá a los usuarios e
 La navegación se realizará mediante una barra superior fija que incluye el logo y las principales secciones. Para usuarios autenticados, se desplegará un menú de usuario con acceso a su perfil y configuraciones. Se implementará breadcrumb navigation en secciones profundas para facilitar el regreso a niveles superiores.
 
 ## 4.3. Landing Page UI Design.
-
+----
 ### 4.3.1. Landing Page Wireframe.
 
 El wireframe de la landing page presenta una estructura clara con hero section, value proposition, testimonios, catálogo de servicios y call-to-actions estratégicos. 
