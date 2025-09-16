@@ -1742,6 +1742,11 @@ En el marco de Scrum, un Sprint corresponde a un período corto y definido en el
 
 #### 5.2.1.2. Aspect Leaders and Collaborators.
 
+Para este Sprint se han establecido los aspectos esenciales relacionados con el desarrollo de la landing page de Utime. Con el propósito de optimizar la organización y la comunicación del equipo, se diseñó la matriz Leadership and Collaboration Matrix (LACX), en la cual se especifica quién desempeña el rol de Líder (L) y quiénes intervienen como Colaboradores (C) en cada uno de estos puntos clave. Esta asignación contribuye a una gestión más clara y a una ejecución más eficiente de las tareas encomendadas.
+
+| **Team Member** | **GitHub Username** | **Caracteristicas** | **Beneficios** | **Testimonios** | **Contacto** | **Responsive** |
+|---------------------------------------------------|---------------------|---------------|----------------|----------------------|----------------|-------------|
+| Julca Cruz, Renso Anthony | rajc02 | L | L              | L                    | L              | L           |
 
 #### 5.2.1.3. Sprint Backlog 1.
 
