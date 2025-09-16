@@ -884,20 +884,34 @@ El análisis competitivo es una herramienta clave para la toma de decisiones est
 
 **Resumen:**
 
-### Segmento Objetivo 2 (NOMBRE DEL SEGMENTO OBJETIVO)
+### Segmento Objetivo 2
 
-#### Datos del Entrevistado #0
+#### Datos del Entrevistado #01
 
-- **Nombre completo:** 
-- **Segmento Objetivo:** 
-- **Edad:** 
-- **Distrito:** 
+- **Nombre completo:** Allison Milagros Rivera Quispe
+- **Segmento Objetivo:** Clientes de salones de belleza
+- **Edad:** 21 años
+- **Distrito:** San Martin de Porres
 - **Screenshot del cuadro de video:** 
-- **URL del video (Microsoft Stream):** 
-- **Inicio de la entrevista:** 
-- **Duración:** 
 
-**Resumen:** 
+![Entrevista-Imagen](img/Entrevista-Imagen.png)
+
+- **URL del video (Microsoft Stream):** [Link de la Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121579_upc_edu_pe/ESsZ5ppUIEZKmukAAfV_k3MBcfoTCHMFMDMBBVhUebMrOw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=S2VyBy)
+- **Inicio de la entrevista:** 00:00:20
+- **Duración:** 00:04:07
+
+**Resumen:** <br>
+La entrevistada fue Allison Milagros Rivera Quispe, estudiante de administración, quien compartió su experiencia al momento de reservar citas en salones de belleza. Actualmente suele hacerlo por WhatsApp o llamadas telefónicas, aunque también considera útil el uso de una página web o aplicación, ya que le parecen opciones más organizadas.
+
+Comentó que uno de los principales problemas que ha tenido es la demora en recibir respuestas, además de citas mal registradas o incluso largos tiempos de espera a pesar de haber reservado previamente.
+
+Para ella es fundamental poder consultar precios, reseñas y disponibilidad antes de reservar, pues le da mayor confianza y seguridad sobre el servicio. En cuanto al pago, mencionó que prefiere hacerlo en línea por ser más cómodo, rápido y seguro, aunque también acepta la opción de pagar en el local.
+
+Respecto a cómo debería ser una aplicación ideal, destacó que debería permitir ver la agenda en tiempo real, elegir a su estilista de confianza, recibir recordatorios automáticos y contar con la posibilidad de cancelar o reprogramar citas de manera sencilla.
+
+En su elección de un salón, lo más importante para ella es la reputación del servicio, seguido por la cercanía, y en tercer lugar el precio, considerando que las promociones pueden motivar, pero no son lo principal.
+
+Finalmente, indicó que utiliza principalmente su smartphone para realizar reservas y se informa a través de Instagram y TikTok, donde observa las fotos y publicaciones de los salones. Sobre su disposición a recomendar, afirmó que sí recomendaría una aplicación confiable de reservas a sus amigos o familiares, ya que le resultaría práctica y útil.
 
 ### 2.2.3. Análisis de entrevistas.
 
