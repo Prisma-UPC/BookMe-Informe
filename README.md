@@ -1726,11 +1726,11 @@ https://github.com/Prisma-UPC/BookMe-Informe
 
 **Repositorio en GitHub - BookMe (Prisma) - Landing Page**<br>
 
-
+https://github.com/Prisma-UPC/Landing-Page-BookMe
 
 **Url Deployment Github Pages - BookMe (Prisma) - Landing Page**<br>
 
-
+https://prisma-upc.github.io/Landing-Page-BookMe/
 
 **Url Video Exposicion TB1:**
 
