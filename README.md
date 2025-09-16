@@ -1586,6 +1586,45 @@ Referencia: [GitHub Pages](https://docs.github.com/es/pages)
 
 ### 5.1.2. Source Code Management.
 
+El proyecto adoptará las convenciones del modelo GitFlow como esquema principal de control de versiones, empleando GitHub como plataforma de gestión. A continuación, se describe la aplicación de GitFlow como flujo de trabajo de versionado y se incluyen los enlaces a los repositorios correspondientes al producto Landing Page:
+
+**Repositorios de GitHub:**
+- Organización en GitHub: [Prisma-UPC](https://github.com/Prisma-UPC)
+
+- Repositorio de la Landing Page: [Landing Page Prisma UPC](https://github.com/Prisma-UPC/Landing-Page-BookMe)
+
+**Flujo de trabajo GitFlow:**
+Para el desarrollo del proyecto se seguirá el modelo de ramas propuesto por Vincent Driessen en “A successful Git branching model”.
+
+![Git Flow Diagram](img/GitFlowDiagram.svg)
+
+**Estructura de ramas**
+
+1. **Rama principal (Main branch):**
+Corresponde al núcleo del proyecto y almacenará únicamente versiones estables y definitivas de la aplicación. Los cambios que lleguen a esta rama deberán haber sido previamente probados y validados en ramas de desarrollo o prueba.
+
+2. **Rama de desarrollo (Develop branch):**
+Será el espacio destinado a concentrar los avances colectivos del equipo, manteniendo los archivos centrales del desarrollo en curso.
+
+3. **Ramas de funcionalidades (Feature branches):**
+Cada nueva característica o módulo se trabajará en una rama independiente. Una vez completada y verificada, la funcionalidad será integrada en la rama de desarrollo. Para su denominación se utilizará un formato descriptivo y único, siguiendo el patrón:
+feature/nombre-de-la-funcionalidad.
+
+4. **Ramas de lanzamiento (Release branches):**
+Se generarán a partir de develop para preparar una nueva versión estable antes de incorporarla a la rama principal. Las versiones se etiquetarán siguiendo la convención de Versionamiento Semántico (Semantic Versioning).
+
+5. **Ramas de corrección (Hotfix branches):**
+Se emplearán para resolver errores críticos detectados en producción (rama principal), con el objetivo de corregirlos de manera rápida y efectiva sin interrumpir el flujo de trabajo general.
+
+**Versionamiento semántico:**
+Las versiones del proyecto seguirán la especificación Semantic Versioning 2.0.0.
+
+**Convenciones de commits:**
+Los mensajes de los commits se ajustarán al estándar Conventional Commits, basado en las Angular Commit Guidelines. La estructura será:
+
+```bash
+  git commit -m "<type>[optional scope]: <description>"
+```
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 
