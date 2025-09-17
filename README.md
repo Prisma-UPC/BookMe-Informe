@@ -1829,6 +1829,31 @@ Dado que este es el primer sprint del proyecto y el desarrollo de backend y APIs
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
+Durante el Sprint 1, el equipo se enfocó en el despliegue de la landing page de BookMe utilizando GitHub Pages, una plataforma de alojamiento gratuita integrada directamente con los repositorios de GitHub. Este enfoque permitió publicar el sitio de manera rápida, automatizada y sin costos adicionales, asegurando que los usuarios finales pudieran acceder al contenido de forma inmediata.
+
+A continuación, se detallan los pasos realizados para configurar y ejecutar el despliegue:
+
+##### Preparación del repositorio:
+
+Se creó una carpeta llamada docs en la raíz del repositorio, la cual contiene todos los archivos necesarios para la landing page (index.html, style.css, img/, src/).
+
+##### Configuración en GitHub:
+
+Se accedió a la configuración del repositorio (Settings > Pages).
+
+En la sección Build and deployment, se seleccionó la rama main como fuente y se especificó la carpeta /docs como directorio de publicación.
+
+GitHub Actions procesó automáticamente los archivos y desplegó el sitio en la URL proporcionada por GitHub Pages.
+
+El resultado fue un sitio totalmente funcional y accesible públicamente.
+
+##### Verificación del despliegue:
+
+Se realizaron pruebas de acceso desde diferentes dispositivos y navegadores para garantizar que el sitio se visualizara correctamente.
+
+La URL final del despliegue es: https://prisma-upc.github.io/Landing-Page-BookMe/
+
+Este proceso aseguró que la landing page estuviera disponible para su revisión y uso desde el primer sprint, sentando las bases para iteraciones futuras y integraciones con servicios adicionales.
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
