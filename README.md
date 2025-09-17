@@ -80,48 +80,10 @@
 
 | Version | Fecha | Autor | Descripción de modificación |
 |---------|-------|-------|-----------------------------|
-|         |       |       |                             |
-|         |       |       |                             |
-|         |       |       |                             |
-|         |       |       |                             |
-|         |       |       |                             |
-|         |       |       |                             |
-|         |       |       |                             |
-|         |       |       |                             |
-|         |       |       |                             |
-|         |       |       |                             |
-|         |       |       |                             |
-|         |       |       |                             |
-|         |       |       |                             |
-|         |       |       |                             |
-|         |       |       |                             |
-|         |       |       |                             |
-|         |       |       |                             |
-|         |       |       |                             |
-|         |       |       |                             |
-|         |       |       |                             |
-|         |       |       |                             |
-|         |       |       |                             |
-|         |       |       |                             |
-|         |       |       |                             |
-|         |       |       |                             |
-|         |       |       |                             |
-|         |       |       |                             |
-|         |       |       |                             |
-|         |       |       |                             |
-|         |       |       |                             |
-|         |       |       |                             |
-|         |       |       |                             |
-|         |       |       |                             |
-|         |       |       |                             |
-|         |       |       |                             |
-|         |       |       |                             |
-|         |       |       |                             |
-|         |       |       |                             |
-|         |       |       |                             |
-|         |       |       |                             |
-|         |       |       |                             |
-|         |       |       |                             |
+|TB1|17/09/2025|Renso, Edson, Marcelo|Adición de lo solicitado para la TB1|
+|TP|       |       |                             |
+|TB2|       |       |                             |
+|TF|       |       |                             |
 
 
 </div>
@@ -136,11 +98,15 @@ En el desarrollo del informe de la entrega TB1, la implementación de las seccio
 
 | Integrantes | Tareas Asignadas |
 |-------------|------------------|
-|             |                  |
-|             |                  |
-|             |                  |
-|             |                  |
-
+|Julca Cruz, Renso Anthony|Capítulo 1|
+|Mazuelos Callirgos, Marcelo Alessandro|Capítulo 2|
+|Llamozas Diaz, Edson Diego|Capítulo 3|
+|Julca Cruz, Renso Anthony|Capítulo 4-4.3|
+|Llamozas Diaz, Edson Diego|Capítulo 4.4-4.5|
+|Mazuelos Callirgos, Marcelo Alessandro|Capítulo 4.6-4.8|
+|Julca Cruz, Renso Anthony|Colaboración del Capítulo 5|
+|Llamozas Diaz, Edson Diego|Colaboración del Capítulo 5|
+|Julca Cruz, Renso Anthony|Landing Page|
 
 **Github Collaboration Insights**
 
@@ -149,9 +115,8 @@ GitHub proporciona además un timeline de las ramas principales junto con los pr
 Los integrantes son:
 
 - Renso Julca (rajc02)
--     
-- 
--
+- DiegoLlamozas
+- MarceloMazuelos
 
 A continuación, se describen las ramas más significativas dentro de la estructura del proyecto:
 
