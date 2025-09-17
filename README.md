@@ -921,6 +921,34 @@ Está abierta a la idea de usar un aplicativo que le facilite aún más el cumpl
 
 En cuanto a dificultados en su trabajo, más que la gestión de reservas, considera que la seguridad es lo principal ante todo. Por lo que el tener un registro de la persona que asistiría a su local es un alivio para tener registro en caso de algún problema. Ya que en el pasado ha tenido malas experiencias con clientes que no actuaron de manera adecuada.
 
+#### Datos del Entrevistado #03
+
+- **Nombre completo:** Carolina Diaz Urbina
+- **Segmento Objetivo:** Estilista profesional de Peluqueria
+- **Edad:** 56 años
+- **Distrito:** San Martin de Porres
+- **Screenshot del cuadro de video:** 
+
+![Entrevista-Imagen](img/Entrevista_3_extilista.png)
+![Entrevista-Imagen](img/Entrevista_3_extilista_2.png)
+
+- **URL del video (Microsoft Stream):** [Link de la Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202319398_upc_edu_pe/Ef0Qq987835PlToObsEzq4kBmZKSaO38cCezZwauUrimIw?e=2frLid&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- **Inicio de la entrevista:** 00:00:05
+- **Duración:** 00:04:59
+
+**Resumen:** <br>
+La entrevistada, Carolina, cuenta con aproximadamente 12 años de experiencia en el rubro de la belleza. Su motivación principal para dedicarse a este negocio fue su pasión por el tema y el deseo de ayudar a las personas a realzar su belleza, además de identificar una oportunidad de negocio en su localidad.
+
+Actualmente, gestiona las citas principalmente a través de WhatsApp, ya que es el canal más utilizado por sus clientes. Complementa esto con una agenda física en libreta para organizar y confirmar las reservas. Algunos clientes antiguos prefieren contactarla directamente por llamada telefónica, mientras que las redes sociales como Instagram las utiliza más para mostrar trabajos realizados que para agendar citas.
+
+Su agenda es flexible, pero los cambios de última hora representan un desafío significativo, generándole estrés y posibles pérdidas de ingresos. Para llenar horarios cancelados, a veces recurre a una lista de espera. Aunque ha considerado usar aplicaciones de gestión, no se ha animado debido a que le parecieron complicadas o muy costosas para su tipo de negocio.
+
+Los recordatorios de citas los maneja principalmente por WhatsApp, enviando un mensaje un día antes para confirmar, aunque admite que a veces se le pasa hacerlo. Sus principales desafíos son las cancelaciones, la gestión de horarios entre varios estilistas, los errores al anotar las citas y los problemas de puntualidad que desorganizan todo el día.
+
+Las cancelaciones o inasistencias ocurren aproximadamente una o dos veces por semana. Para manejar esto, en el caso de clientes nuevos que no se presentan, no los vuelve a agendar; si son clientes habituales, les escribe con cuidado para no sonar recluyente y así intentar retenerlos.
+
+Entre las estrategias para fidelizar clientes, destaca el buen servicio, una tarjeta de felicitación que ofrece un servicio gratis tras 10 visitas, y el envío de promociones por WhatsApp. Reconoce que estaría abierta a implementar herramientas digitales, ya que ahora se da cuenta de que le hubieran ahorrado muchos problemas, como una agenda visual con recordatorios automáticos. A corto y mediano plazo, le gustaría digitalizar la agenda, tener un sistema de pago más profesional que acepte tarjetas (no solo efectivo) y contar con un sitio web sencillo donde la gente pueda ver servicios y precios.
+
 ### Segmento Objetivo 2 - Cliente
 #### Datos del Entrevistado #01
 
