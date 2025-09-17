@@ -1857,7 +1857,17 @@ Este proceso aseguró que la landing page estuviera disponible para su revisión
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
+urante el Sprint 1, el equipo se organizó bajo una metodología colaborativa que permitió desarrollar de manera eficiente la landing page de BookMe. Aunque el desarrollo frontend estuvo principalmente a cargo de Renso Julca, todos los miembros del equipo participaron activamente en las etapas de planificación, revisión de diseño y toma de decisiones sobre la estructura y contenido de la landing page.
 
+La colaboración se llevó a cabo principalmente a través de:
+
+Reuniones de planificación en Discord para definir el alcance y distribución de tareas
+
+Revisiones constantes del diseño en Figma con comentarios de todos los integrantes
+
+Code reviews mediante pull requests en GitHub
+
+Comunicación continua en el canal de Discord del equipo
 
 # Conclusiones
 
