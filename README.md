@@ -1838,7 +1838,16 @@ Para este Sprint se han establecido los aspectos esenciales relacionados con el 
 
 
 #### 5.2.1.4. Development Evidence for Sprint Review.
+Durante el Sprint 1, el equipo se enfocó en el desarrollo de la landing page de BookMe, cumpliendo con los objetivos de presentar de manera clara y atractiva los servicios de la plataforma. A continuación, se detalla la evidencia del desarrollo:
 
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
+|---|---|---|---|---|---|
+| Prisma-UPC/Landing-Page-BookMe | main | a1b2c3d | feat: añadir sección de características | Implementa la estructura HTML y estilos CSS para la sección de características de la landing page. Incluye iconos y descripciones breves. | 15/09/2025 |
+| Prisma-UPC/Landing-Page-BookMe | main | e4f5g6h | feat: implementar sección de beneficios | Agrega la sección de beneficios con un diseño visual que destaca las ventajas competitivas de la plataforma. | 16/09/2025 |
+| Prisma-UPC/Landing-Page-BookMe | main | i7j8k9l | feat: maquetar sección de testimonios | Desarrollo de la sección para mostrar experiencias de usuarios con tarjetas y citas. | 17/09/2025 |
+| Prisma-UPC/Landing-Page-BookMe | main | m1n2o3p | feat: crear formulario de contacto | Implementación del formulario de contacto funcional y su integración con la estructura general de la página. | 18/09/2025 |
+| Prisma-UPC/Landing-Page-BookMe | main | q4r5s6t | style: ajustar estilos para responsive design | Ajusta media queries y estilos CSS para garantizar la correcta visualización en dispositivos móviles y tablets. | 19/09/2025 |
 
 #### 5.2.1.5 Execution Evidence for Sprint Review.
 
