@@ -1590,7 +1590,7 @@ El prototipo interactivo permite simular el flujo de agendamiento de citas, gest
 ### 4.6.1. Design-Level Event Storming
 Durante la sesión de Design-Level Event Storming, se identificaron los siguientes eventos clave: "CitaAgendada", "CitaCancelada", "PagoRealizado", "UsuarioRegistrado". A partir de estos, se delinearon los comandos y agregados necesarios, leading to the definition of bounded contexts como "Reservations", "Payments", "Users".
 
-### 4.6.2. Software Architecture Context Diagram.
+### 4.6.2. Software Architecture Context Diagram
 El sistema BookMe interactúa con usuarios (clientes y dueños de salones), y con sistemas externos como pasarelas de pago y servicios de notificaciones.
 <div align="center">
 <img src="img/context-diagram.png" alt="Software Architecture Context Diagram" width="Max" />
@@ -1599,101 +1599,21 @@ El sistema BookMe interactúa con usuarios (clientes y dueños de salones), y co
 ### 4.6.3. Software Architecture Container Diagrams.
 La arquitectura se compone de un frontend web, una API REST, una base de datos PostgreSQL y integraciones con Stripe (pagos) y Twilio (notificaciones SMS).
 <div align="center">
-<img src="img/container-diagram.png" alt="Software Architecture Context Diagram" width="Max" />
+<img src="img/container-diagram.png" alt="Software Architecture Container Diagram" width="Max" />
 </div> <br>
 
 ### 4.6.4. Software Architecture Components Diagrams.
 El componente de Reservations incluye clases como AppointmentService, CalendarManager y NotificationService, detallando sus responsabilidades e interacciones.
 
-#### Single Page Application Diagram
 <div align="center">
-<img src="img/component-diagram-1.png" alt="Single Page Application" width="Max" />
-</div> <br>
-
-#### Profiles Diagram
-<div align="center">
-<img src="img/component-diagram-2.png" alt="Profiles Context" width="Max" />
-</div> <br>
-
-#### Reservation Diagram
-<div align="center">
-<img src="img/component-diagram-3.png" alt="Reservation Context" width="Max" />
-</div> <br>
-
-#### Reviews Diagram
-<div align="center">
-<img src="img/component-diagram-4.png" alt="Reviews Context" width="Max" />
-</div> <br>
-
-#### Services Diagram
-<div align="center">
-<img src="img/component-diagram-5.png" alt="Services Context" width="Max" />
-</div> <br>
-
-#### Workers Diagram
-<div align="center">
-<img src="img/component-diagram-6.png" alt="Workers Context" width="Max" />
+<img src="img/component-diagram.png" alt="Software Architecture Component Diagram" width="Max" />
 </div> <br>
 
 ### 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
-#### Diagrama completo
-<div align="center">
-<img src="img/uTime_Backend.svg" alt="Complete Diagram" width="Max" />
-</div> <br>
 
-#### Profile Context
 <div align="center">
-<img src="img/profile-context.svg" alt="Profile Context" width="Max" />
-</div> <br>
-
-#### Reservation Context
-<div align="center">
-<img src="img/reservation-context-diagram.svg" alt="Reservation Context" width="Max" />
-</div> <br>
-
-#### Review Context
-<div align="center">
-<img src="img/reviews-context-diagram.svg" alt="Review Context" width="Max" />
-</div> <br>
-
-#### Services Context
-<div align="center">
-<img src="img/services-context-diagram.svg" alt="Services Context" width="Max" />
-</div> <br>
-
-#### Review Context
-<div align="center">
-<img src="img/shared-context-diagram.svg" alt="Shared Context" width="Max" />
-</div> <br>
-
-#### Workers Context
-<div align="center">
-<img src="img/workers-context-diagram.svg" alt="Workers Context" width="Max" /></div> <br>
-
-#### Diagrama del frontend
-<div align="center">
-<img src="img/class-diagram-frontend.png" alt="Frontend diagram" width="Max" />
-</div> <br>
-
-#### Dashboard y Appointment - Frontend
-<div align="center">
-<img src="img/class-diagram-frontend-dash_appo.png" alt="Dashboard y Appointment" width="Max" />
-</div> <br>
-
-#### Profile y IAM - Frontend
-<div align="center">
-<img src="img/class-diagram-frontend-prof_iam.png" alt="Profile y IAM" width="Max" />
-</div> <br>
-
-#### Provider Settings y Reviews - Frontend
-<div align="center">
-<img src="img/class-diagram-frontend-provsett_pub_rev.png" alt="Provider Settings y Reviews" width="Max" />
-</div> <br>
-
-#### Schedule y Services - Frontend
-<div align="center">
-<img src="img/class-diagram-frontend-sched_serv.png" alt="Schedule y Services" width="Max" />
+<img src="img/class-diagram.png" alt="Class Diagrams" width="Max" />
 </div> <br>
 
 ## 4.8. Database Design.
