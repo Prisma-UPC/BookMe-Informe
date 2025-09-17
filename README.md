@@ -1828,6 +1828,14 @@ Para este Sprint se han establecido los aspectos esenciales relacionados con el 
 
 #### 5.2.1.3. Sprint Backlog 1.
 
+| **Sprint #** | **User Story ID** | **User Story Description** | **Task Assigned** | **Story Points** |
+|--------------|-------------------|----------------------------|-------------------|------------------|
+| 1 | US01 | Como usuario comprador/vendedor no identificado, quiero poder registrarme para hacer uso de la aplicación | Renso Julca | 3 |
+| 1 | US02 | Como usuario comprador/vendedor, quiero poder iniciar sesión para acceder a todas las funcionalidades de la aplicación | Renso Julca | 2 |
+| 1 | US08 | Como usuario vendedor, quiero tener disponible la opción de venta de artefactos para poder solicitar la venta de mi artefacto electrónico | Renso Julca | 5 |
+| 1 | US16 | Como usuario comprador, quiero tener disponible la opción de comprar los productos en mi carrito para poder adquirirlos | Renso Julca | 5 |
+| 1 | US17 | Como usuario vendedor, quiero tener disponible una sección de productos en demanda para poder revisar si tengo alguno y venderlo | Renso Julca | 3 |
+
 
 #### 5.2.1.4. Development Evidence for Sprint Review.
 
@@ -1846,11 +1854,10 @@ Para este Sprint se han establecido los aspectos esenciales relacionados con el 
 | **Alumno**                             | **Actividad**                                                       |
 |----------------------------------------|---------------------------------------------------------------------|
 | Julca Cruz, Renso Anthony              | Implementación de las Caracteristicas de la Landing Page            |
-| Julca Cruz, Renso Anthony              | Implementación de los Beneficios de la Landing Page                 |
-| Julca Cruz, Renso Anthony              | Implementación de los Testimonios de la Landing Page                |
+| Llamozas Diaz, Edson Diego             | Implementación de los Beneficios de la Landing Page                 |
+| Mazuelos Callirgos, Marcelo Alessandro | Implementación de los Testimonios de la Landing Page                |
 | Julca Cruz, Renso Anthony              | Implementación de Contacto de la Landing Page                       |
 
-  
 
 # Conclusiones
 
