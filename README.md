@@ -970,6 +970,28 @@ Comenta que su principal problema, es cuando existe una emergencia y requiere de
 
 Si bien no usa aplicativos para sus citas, considera que estas herramientas serían importantes para acelerar procesos, y que tendrían rápido acceso a promociones o disponibilidad que la motiven a ver otras opciones cercanas.
 
+#### Datos del Entrevistado #03
+
+- **Nombre completo:** Giovanna Diaz Urbina
+- **Segmento Objetivo:** Clientes de salones de belleza
+- **Edad:** 53 años
+- **Distrito:** San Martin de Porres
+- **Screenshot del cuadro de video:** 
+
+![Entrevista-Imagen](img/entrevista_3_cliente%20(1).png)
+![Entrevista-Imagen](img/entrevista_3_cliente%20(2).png)
+
+- **URL del video (Microsoft Stream):** [Link de la Entrevista](https://upcedupe-my.sharepoint.com/personal/u202319398_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202319398%5Fupc%5Fedu%5Fpe%2FDocuments%2Fvideo2239052217%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eabd67f1a%2De6e9%2D4da8%2D9810%2D69aa86351737)
+- **Inicio de la entrevista:** 00:00:10
+- **Duración:** 00:03:55
+
+**Resumen:** <br>
+La entrevistada, Giovanna Diaz Urbina, es una cliente habitual de salones de belleza que se atiende con el mismo estilista desde hace más de diez años por la satisfacción con su trabajo. Visita el salón aproximadamente una vez al mes y solicita servicios como corte de cabello, recondicionamiento, depilación de cejas y bozo, manicura y limpieza de cutis.
+
+Para ella, el factor más importante al elegir un salón es la calidad del servicio. Prefiere agendar sus citas de manera presencial y no ha tenido experiencias negativas con largas esperas. Para reprogramar una cita, suele enviar un mensaje a su estilista. En cuanto a los métodos de pago, prefiere utilizar Yape o tarjeta, evitando el efectivo. Suele recibir recordatorios de citas o promociones por correo o WhatsApp.
+
+Giovanna menciona que nunca ha utilizado una aplicación o plataforma para reservar citas. Como sugerencia de mejora para los salones, destaca la importancia de "engreír" al cliente durante los tiempos de espera, por ejemplo, ofreciendo un bocadito. La presencia en redes sociales del salón no es un factor crucial para ella, ya que ya conoce el establecimiento desde hace años. Valora la opción de pago digital por su practicidad.
+
 ### 2.2.3. Análisis de entrevistas.
 - **Análisis del Segmento Objetivo 01**
 
