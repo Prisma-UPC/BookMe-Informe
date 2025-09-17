@@ -1815,7 +1815,19 @@ Durante el Sprint 1, el equipo se enfocó en el desarrollo de la landing page de
 | Prisma-UPC/Landing-Page-BookMe | main | q4r5s6t | style: ajustar estilos para responsive design | Ajusta media queries y estilos CSS para garantizar la correcta visualización en dispositivos móviles y tablets. | 19/09/2025 |
 
 #### 5.2.1.5 Execution Evidence for Sprint Review.
+Durante el Sprint 1, el equipo se enfocó en el desarrollo de la landing page de BookMe, cumpliendo con el objetivo de presentar de manera clara y atractiva los servicios de la plataforma. Se implementaron las siguientes secciones:
 
+* Header con navegación y CTA principal
+
+* Sección de características con iconos y descripciones
+
+* Sección de beneficios destacando ventajas competitivas
+
+* Testimonios de usuarios
+
+* Formulario de contacto
+
+* Diseño responsivo para dispositivos móviles y escritorio
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
