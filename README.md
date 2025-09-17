@@ -59,10 +59,6 @@
    <td>Mazuelos Callirgos, Marcelo Alessandro</td>
    <td>U201916143</td>
    </tr>
-   <tr>
-   <td></td>
-   <td></td>
-   </tr>
    </table>
    </div>
    
@@ -241,10 +237,7 @@ Nuestra **visión** es convertirnos en la plataforma líder en reservas de salon
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
 | **Julca Cruz, Renso Anthony**<br>Estudiante de Ingenieria de Software, actualmente curso el 5to ciclo de esta carrera. Me apasiona programar y ser autodidacta para poder mejorar mis habilidades en el desarrollo de software, quisiera dedicarme a la parte de gestion bancaria. | <img src="https://files.catbox.moe/ubvuqr.png" alt="renso image" width="200"> |                                                                         
 | **Mazuelos Callirgos, Marcelo Alessandro**<br>Estudiante de Ingenieria de Software.|<img src="https://files.catbox.moe/y8qpju.jpg" alt="marcelo image" width="200">|
-
-| **NOMBRE**<br>                                                                                                                                                                                                                                                                     |                                                                               |
-| **NOMBRE**<br>                                                                                                                                                                                                                                                                     |                                                                               |
-
+| **Llamozas Diaz, Edson Diego**<br>Estudiante de Ingenieria de Software.|<img src="https://files.catbox.moe/gn81rz.jpg" alt="edson image" width="200">|
 ## 1.2. Solution Profile
 
 ### 1.2.1 Antecedentes y problemática
