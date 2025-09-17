@@ -1865,7 +1865,9 @@ Durante el Sprint 1, el equipo se enfocó en el desarrollo de la landing page de
 * Diseño responsivo para dispositivos móviles y escritorio
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+Durante el Sprint 1, el equipo se enfocó en el desarrollo de la landing page de BookMe, por lo que no se implementaron servicios web o endpoints en esta fase inicial del proyecto. El alcance de este sprint se limitó exclusivamente al diseño y desarrollo frontend de la página de presentación del producto.
 
+Dado que este es el primer sprint del proyecto y el desarrollo de backend y APIs está planificado para sprints posteriores, no existen endpoints documentados con OpenAPI en este momento. La documentación de servicios web se incluirá en futuros sprints una vez que comience el desarrollo de las funcionalidades backend y la API de BookMe.
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
